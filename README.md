@@ -6,7 +6,7 @@
 
 | フォルダ | 原作 | 状態 |
 |---|---|---|
-| `cosmic-consciousness/` | Richard Maurice Bucke『Cosmic Consciousness』（1901年初版／1905年版） | 翻訳中 |
+| `cosmic-consciousness/` | Richard Maurice Bucke『Cosmic Consciousness』（1901年初版／1905年版） | 全訳完了（全6部、用語集・作業メモ・note用原稿あり） |
 
 ## 各フォルダの構成（原則）
 
