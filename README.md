@@ -7,6 +7,7 @@
 | フォルダ | 原作 | 状態 |
 |---|---|---|
 | `cosmic-consciousness/` | Richard Maurice Bucke『Cosmic Consciousness』（1901年初版／1905年版） | 全訳完了（全6部、用語集・作業メモ・note用原稿あり） |
+| `through-the-gates-of-death/` | Dion Fortune『Through the Gates of Death』（1930年） | 全訳完了（全15章、用語集・作業メモ・note用原稿あり） |
 
 ## 各フォルダの構成（原則）
 
