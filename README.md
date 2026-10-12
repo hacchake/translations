@@ -8,6 +8,7 @@
 |---|---|---|
 | `cosmic-consciousness/` | Richard Maurice Bucke『Cosmic Consciousness』（1901年初版／1905年版） | 全訳完了（全6部、用語集・作業メモ・note用原稿あり） |
 | `through-the-gates-of-death/` | Dion Fortune『Through the Gates of Death』（1930年） | 全訳完了（全15章、用語集・作業メモ・note用原稿あり） |
+| `egyptian-magic/` | Florence Farr（S. S. D. D.）『Egyptian Magic』（1896年） | 全訳完了（表紙・口絵・表・印章の図を収録、用語集・作業メモ・note用原稿あり） |
 | `mescal/` | Havelock Ellis「Mescal: A New Artificial Paradise」（1898年） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `fushikaden/` | 世阿弥『風姿花伝』第一「年来稽古条々」 | 現代口語訳（原文対照、用語集・作業メモ・note用原稿あり） |
 | `minakata-kumagusu/` | 南方熊楠の論考・随筆（『十二支考』各篇、「神社合祀に関する意見」ほか24本） | 現代語訳のnote用原稿、「田原藤太竜宮入りの話」の原文対応版 |
