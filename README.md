@@ -13,7 +13,7 @@
 | `hermetic-art/` | A Lover of Philalethes『A Short Enquiry concerning the Hermetic Art』（1714年。1894年版、ファー〈S. S. D. D.〉の錬金術入門・注付き） | 全訳完了（表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
 | `iliad/` | ホメロス『イーリアス』（ギリシア語原典） | 完了（4歌ずつ6本と各歌要約の記事をnoteで公開） |
 | `mescal/` | Havelock Ellis「Mescal: A New Artificial Paradise」（1898年） | 全訳完了（用語集・作業メモ・note用原稿あり） |
-| `fushikaden/` | 世阿弥『風姿花伝』第一「年来稽古条々」・第二「物学条々」 | 現代口語訳（原文対照、用語集・作業メモ・note用原稿あり） |
+| `fushikaden/` | 世阿弥『風姿花伝』第一「年来稽古条々」・第二「物学条々」・第三「問答条々」 | 現代口語訳（原文対照、用語集・作業メモ・note用原稿あり） |
 | `minakata-kumagusu/` | 南方熊楠の論考・随筆（『十二支考』各篇、「神社合祀に関する意見」ほか24本） | 現代語訳のnote用原稿、「田原藤太竜宮入りの話」の原文対応版 |
 
 ## 各フォルダの構成（原則）
