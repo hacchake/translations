@@ -599,3 +599,4 @@
 - 第七「花伝書別紙口伝」：https://note.com/magic_pothos3723/n/ne623a92fd57e （2026年10月28日公開。ハッシュタグは第二と同じ）
 - 第一「年来稽古条々」（以前に公開済み）：https://note.com/magic_pothos3723/n/n75ccfe4246b4
 - 全七篇の要約と目次の記事を、fushikaden_mokuji_note用.md から投稿する。
+- 全七篇の要約と目次：https://note.com/magic_pothos3723/n/n6935678d268d （2026年10月28日公開。7本の記事へのリンク付き。ハッシュタグは第二と同じ）
