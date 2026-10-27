@@ -11,7 +11,7 @@
 | `egyptian-magic/` | Florence Farr（S. S. D. D.）『Egyptian Magic』（1896年） | 全訳完了（表紙・口絵・表・印章の図を収録、用語集・作業メモ・note用原稿あり） |
 | `beloved-of-hathor/` | Florence Farr & O. Shakespear『The Beloved of Hathor / The Shrine of the Golden Hawk』（1902年ごろ） | 全訳完了（戯曲2本、表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
 | `hermetic-art/` | A Lover of Philalethes『A Short Enquiry concerning the Hermetic Art』（1714年。1894年版、ファー〈S. S. D. D.〉の錬金術入門・注付き） | 全訳完了（表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
-| `iliad/` | ホメロス『イーリアス』（ギリシア語原典） | 翻訳中（4歌ずつ6本に分けて公開。第九〜十二歌まで完了） |
+| `iliad/` | ホメロス『イーリアス』（ギリシア語原典） | 翻訳中（4歌ずつ6本に分けて公開。第十三〜十六歌まで完了） |
 | `mescal/` | Havelock Ellis「Mescal: A New Artificial Paradise」（1898年） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `fushikaden/` | 世阿弥『風姿花伝』第一「年来稽古条々」 | 現代口語訳（原文対照、用語集・作業メモ・note用原稿あり） |
 | `minakata-kumagusu/` | 南方熊楠の論考・随筆（『十二支考』各篇、「神社合祀に関する意見」ほか24本） | 現代語訳のnote用原稿、「田原藤太竜宮入りの話」の原文対応版 |
