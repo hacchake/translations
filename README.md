@@ -19,7 +19,7 @@
 | `hymn-to-hermes/` | ホメーロス風讃歌『ヘルメース讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n99776cd46192） |
 | `hymn-to-aphrodite/` | ホメーロス風讃歌『アプロディーテー讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n5148882686de） |
 | `minor-homeric-hymns/` | ホメーロス風讃歌 小讃歌集（第一番・第六〜第三十三番、ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n07e2358959f7） |
-| `odyssey/` | ホメロス『オデュッセイア』（ギリシア語原典） | 完訳（全二十四歌。4歌ずつ6本。note未投稿） |
+| `odyssey/` | ホメロス『オデュッセイア』（ギリシア語原典） | 完訳（全二十四歌。4歌ずつ6本。note公開済み。各記事のURLは作業メモに記録） |
 | `mescal/` | Havelock Ellis「Mescal: A New Artificial Paradise」（1898年） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `fushikaden/` | 世阿弥『風姿花伝』第一「年来稽古条々」・第二「物学条々」・第三「問答条々」・第四「神儀云」・第五「奥儀云」・第六「花修云」・第七「花伝書別紙口伝」（全七篇） | 現代口語訳（原文対照、用語集・作業メモ・note用原稿あり） |
 | `kakyo/` | 世阿弥『花鏡』 | 全訳完了（現代口語訳、原文対照、3本に分けて公開。用語集・作業メモ・note用原稿あり） |
