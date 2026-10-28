@@ -15,10 +15,10 @@
 | `theogony/` | ヘーシオドス『神統記』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `works-and-days/` | ヘーシオドス『仕事と日』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `hymn-to-demeter/` | ホメーロス風讃歌『デーメーテール讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n6f998abae5af） |
-| `hymn-to-apollo/` | ホメーロス風讃歌『アポローン讃歌』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
-| `hymn-to-hermes/` | ホメーロス風讃歌『ヘルメース讃歌』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
-| `hymn-to-aphrodite/` | ホメーロス風讃歌『アプロディーテー讃歌』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
-| `minor-homeric-hymns/` | ホメーロス風讃歌 小讃歌集（第一番・第六〜第三十三番、ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
+| `hymn-to-apollo/` | ホメーロス風讃歌『アポローン讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n3b9ab1b874fa） |
+| `hymn-to-hermes/` | ホメーロス風讃歌『ヘルメース讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n99776cd46192） |
+| `hymn-to-aphrodite/` | ホメーロス風讃歌『アプロディーテー讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n5148882686de） |
+| `minor-homeric-hymns/` | ホメーロス風讃歌 小讃歌集（第一番・第六〜第三十三番、ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n07e2358959f7） |
 | `odyssey/` | ホメロス『オデュッセイア』（ギリシア語原典） | 完訳（全二十四歌。4歌ずつ6本。note未投稿） |
 | `mescal/` | Havelock Ellis「Mescal: A New Artificial Paradise」（1898年） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `fushikaden/` | 世阿弥『風姿花伝』第一「年来稽古条々」・第二「物学条々」・第三「問答条々」・第四「神儀云」・第五「奥儀云」・第六「花修云」・第七「花伝書別紙口伝」（全七篇） | 現代口語訳（原文対照、用語集・作業メモ・note用原稿あり） |
