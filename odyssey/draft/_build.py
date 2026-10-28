@@ -1,0 +1,65 @@
+import pathlib, re, sys
+B = pathlib.Path(r"C:\Users\sisho\Desktop\translations\odyssey")
+D = B / "draft"
+N = B / "note用"
+N.mkdir(exist_ok=True)
+
+KANJI = "〇一二三四五六七八九十"
+def kan(n):
+    if n <= 10: return "十" if n == 10 else KANJI[n]
+    if n < 20: return "十" + KANJI[n - 10]
+    return KANJI[n // 10] + "十" + (KANJI[n % 10] if n % 10 else "")
+
+HEAD = """| 項目 | 内容 |
+|---|---|
+| 原題 | Ὀδύσσεια（オデュッセイア） |
+| 作者 | ホメロス（紀元前8世紀ごろとされる） |
+| 作業の基にした本文 | Homer, The Odyssey, with an English translation by A. T. Murray, 2 vols., London: William Heinemann / New York: G. P. Putnam's Sons, 1919年（ローブ古典叢書）のギリシア語本文。ペルセウス計画（タフツ大学）のデジタル版 https://github.com/PerseusDL/canonical-greekLit による |
+| 著作権 | 原作は古代の作品で、著作権はない。底本の校訂者マレー（1866〜1940年）の著作も、日本と米国で保護期間が満了している |
+| 訳者 | 人工知能（Claude Opus 5.5） |
+| 訳の性格 | ギリシア語原典からの全訳（散文訳、要約・省略なし）。既存の日本語訳は参照していない。段落の頭の［ ］内の数字は原典の行番号 |
+"""
+
+PARTS = {
+ 1: ("第一〜四歌", [1, 2, 3, 4],
+     "トロイア陥落から十年、オデュッセウスはただ一人帰国できず、女神カリュプソーの島に引きとめられている。神々の会議で帰国が決まり、アテーナーは客人メンテースの姿でイタケーを訪ね、求婚者たちに家を食い荒らされている息子テーレマコスを励ます（第一歌）。テーレマコスは集会を開いて求婚者たちの退去を求めるが聞き入れられず、メントールの姿をしたアテーナーの助けで、ひそかに父の消息を尋ねる船旅に出る（第二歌）。ピュロスでは老将ネストールが、トロイアからの帰国の次第と、アガメムノーンの非業の死、息子オレステースの仇討ちを語る（第三歌）。スパルテーでは、メネラーオスとヘレネーがオデュッセウスの思い出を語り、メネラーオスは、エジプト沖のパロス島で海の老人プローテウスを捕らえ、オデュッセウスがカリュプソーのもとに生きていると聞いたことを告げる。一方イタケーでは、求婚者たちがテーレマコスを待ち伏せして殺そうとたくらみ、ペーネロペイアは嘆き悲しむ（第四歌）。"),
+}
+
+CREDIT = """---
+
+## 出典
+
+> 原作：ホメロス『オデュッセイア』。底本：Homer, The Odyssey, ed. A. T. Murray, Loeb Classical Library（1919年）。ペルセウス計画のデジタル版による
+> 本訳は、ギリシア語原典を全訳したものです。原作に著作権はなく、底本も保護期間が満了しています。訳文は人工知能（Claude Opus 5.5）による翻訳であり、誤りを含む可能性があります。
+"""
+TAGS = "#オデュッセイア #ホメロス #ギリシア神話 #オデュッセウス #古典 #翻訳 #パブリックドメイン"
+
+def build(p):
+    label, books, summ = PARTS[p]
+    body = "\n\n".join((D / f"b{b:02d}.md").read_text(encoding="utf-8").strip() for b in books)
+    body = re.sub(r"^## 第(\S+?)歌", lambda m: f"## 第{m.group(1)}歌", body, flags=re.M)
+    toc = [l[3:].strip() for l in body.splitlines() if l.startswith("## ")]
+    title = f"オデュッセイア　{label}"
+    out = [f"# {title}", "", "ホメロス作／ギリシア語原典からの全訳", "", HEAD,
+           "## この記事の内容（要約）", "", "　" + summ, "",
+           "## 目次", ""] + [f"- {c}" for c in toc] + ["", "---", "", body, "", CREDIT, TAGS, ""]
+    fn = B / f"オデュッセイア_{p:02d}_{label}.md"
+    fn.write_text("\n".join(out), encoding="utf-8")
+    t = fn.read_text(encoding="utf-8")
+    lines = t.split("\n"); res = []
+    for l in lines:
+        m = re.match(r"^\| (.+?) \| (.+?) \|$", l)
+        if m and not l.startswith("|---"):
+            if m.group(1) != "項目": res.append(f"- {m.group(1)}：{m.group(2)}")
+            continue
+        if l.startswith("|---"): continue
+        res.append(l)
+    t = "\n".join(res)
+    t = re.sub(r"\*([^*\n]+)\*(?!\*)", r"\1", t.replace("**", "\x00")).replace("\x00", "**")
+    t = t.replace(f"# {title}\n", f"# 【全訳】ホメロス『オデュッセイア』{label}\n", 1)
+    t = f"<!-- note投稿用（{fn.name} から生成。表を箇条書きにした） -->\n\n" + t
+    (N / f"オデュッセイア_note_{label}.md").write_text(t, encoding="utf-8")
+    print(fn.name, len(fn.read_text(encoding="utf-8")), "note", len(t))
+
+for p in map(int, sys.argv[1:]):
+    build(p)
