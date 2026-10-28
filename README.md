@@ -15,6 +15,7 @@
 | `theogony/` | ヘーシオドス『神統記』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `works-and-days/` | ヘーシオドス『仕事と日』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `hymn-to-demeter/` | ホメーロス風讃歌『デーメーテール讃歌』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
+| `hymn-to-hermes/` | ホメーロス風讃歌『ヘルメース讃歌』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
 | `hymn-to-aphrodite/` | ホメーロス風讃歌『アプロディーテー讃歌』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
 | `minor-homeric-hymns/` | ホメーロス風讃歌 小讃歌集（第六〜第三十三番、ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
 | `mescal/` | Havelock Ellis「Mescal: A New Artificial Paradise」（1898年） | 全訳完了（用語集・作業メモ・note用原稿あり） |
