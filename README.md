@@ -14,6 +14,7 @@
 | `iliad/` | ホメロス『イーリアス』（ギリシア語原典） | 完了（4歌ずつ6本と各歌要約の記事をnoteで公開） |
 | `theogony/` | ヘーシオドス『神統記』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `works-and-days/` | ヘーシオドス『仕事と日』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
+| `shield-of-heracles/` | 伝ヘーシオドス『ヘーラクレースの盾』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
 | `hymn-to-demeter/` | ホメーロス風讃歌『デーメーテール讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n6f998abae5af） |
 | `hymn-to-apollo/` | ホメーロス風讃歌『アポローン讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n3b9ab1b874fa） |
 | `hymn-to-hermes/` | ホメーロス風讃歌『ヘルメース讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n99776cd46192） |
