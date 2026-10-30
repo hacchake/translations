@@ -8,15 +8,15 @@
 |---|---|---|
 | `cosmic-consciousness/` | Richard Maurice Bucke『Cosmic Consciousness』（1901年初版／1905年版） | 全訳完了（全6部、用語集・作業メモ・note用原稿あり） |
 | `through-the-gates-of-death/` | Dion Fortune『Through the Gates of Death』（1930年） | 全訳完了（全15章、用語集・作業メモ・note用原稿あり） |
-| `esoteric-orders/` | Dion Fortune『Esoteric Orders and Their Work』（1928年） | 全訳完了（序論と全14章、作業メモ・note用原稿2本あり。note未投稿） |
+| `esoteric-orders/` | Dion Fortune『Esoteric Orders and Their Work』（1928年） | 全訳完了（序論と全14章、作業メモ・note用原稿2本あり。2026-10-31にnote公開済み） |
 | `egyptian-magic/` | Florence Farr（S. S. D. D.）『Egyptian Magic』（1896年） | 全訳完了（表紙・口絵・表・印章の図を収録、用語集・作業メモ・note用原稿あり） |
 | `beloved-of-hathor/` | Florence Farr & O. Shakespear『The Beloved of Hathor / The Shrine of the Golden Hawk』（1902年ごろ） | 全訳完了（戯曲2本、表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
 | `hermetic-art/` | A Lover of Philalethes『A Short Enquiry concerning the Hermetic Art』（1714年。1894年版、ファー〈S. S. D. D.〉の錬金術入門・注付き） | 全訳完了（表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
-| `mathers-tarot/` | S. L. MacGregor Mathers『The Tarot: Its Occult Signification, Use in Fortune-Telling, and Method of Play』（1888年） | 全訳完了（作業メモ・note用原稿あり） |
+| `mathers-tarot/` | S. L. MacGregor Mathers『The Tarot: Its Occult Signification, Use in Fortune-Telling, and Method of Play』（1888年） | 全訳完了（作業メモ・note用原稿あり。2026-10-31にnote公開済み） |
 | `iliad/` | ホメロス『イーリアス』（ギリシア語原典） | 完了（4歌ずつ6本と各歌要約の記事をnoteで公開） |
 | `theogony/` | ヘーシオドス『神統記』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `works-and-days/` | ヘーシオドス『仕事と日』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
-| `shield-of-heracles/` | 伝ヘーシオドス『ヘーラクレースの盾』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。note未投稿） |
+| `shield-of-heracles/` | 伝ヘーシオドス『ヘーラクレースの盾』（ギリシア語原典） | 全訳完了（作業メモ・note用原稿あり。2026-10-31にnote公開済み） |
 | `hymn-to-demeter/` | ホメーロス風讃歌『デーメーテール讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n6f998abae5af） |
 | `hymn-to-apollo/` | ホメーロス風讃歌『アポローン讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n3b9ab1b874fa） |
 | `hymn-to-hermes/` | ホメーロス風讃歌『ヘルメース讃歌』（ギリシア語原典） | 全訳完了・note公開済み（https://note.com/magic_pothos3723/n/n99776cd46192） |
