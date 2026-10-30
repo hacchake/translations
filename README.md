@@ -9,7 +9,7 @@
 | `cosmic-consciousness/` | Richard Maurice Bucke『Cosmic Consciousness』（1901年初版／1905年版） | 全訳完了（全6部、用語集・作業メモ・note用原稿あり） |
 | `through-the-gates-of-death/` | Dion Fortune『Through the Gates of Death』（1930年） | 全訳完了（全15章、用語集・作業メモ・note用原稿あり） |
 | `esoteric-orders/` | Dion Fortune『Esoteric Orders and Their Work』（1928年） | 全訳完了（序論と全14章、作業メモ・note用原稿2本あり。2026-10-31にnote公開済み） |
-| `sane-occultism/` | Dion Fortune『Sane Occultism』（1929年） | 全訳完了（全19章、作業メモ・note用原稿3本あり） |
+| `sane-occultism/` | Dion Fortune『Sane Occultism』（1929年） | 全訳完了（全19章、作業メモ・note用原稿3本あり。2026-10-31にnote公開済み） |
 | `egyptian-magic/` | Florence Farr（S. S. D. D.）『Egyptian Magic』（1896年） | 全訳完了（表紙・口絵・表・印章の図を収録、用語集・作業メモ・note用原稿あり） |
 | `beloved-of-hathor/` | Florence Farr & O. Shakespear『The Beloved of Hathor / The Shrine of the Golden Hawk』（1902年ごろ） | 全訳完了（戯曲2本、表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
 | `hermetic-art/` | A Lover of Philalethes『A Short Enquiry concerning the Hermetic Art』（1714年。1894年版、ファー〈S. S. D. D.〉の錬金術入門・注付き） | 全訳完了（表紙・扉を収録、用語集・作業メモ・note用原稿あり） |
