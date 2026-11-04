@@ -17,7 +17,7 @@
 | `westcott-numbers/` | W. Wynn Westcott『Numbers: Their Occult Power and Mystic Virtues』（第三版1911年） | 全訳完了（作業メモ・note用原稿3本あり。2026-10-31にnote公開済み） |
 | `westcott-kabalah/` | W. Wynn Westcott『An Introduction to the Study of the Kabalah』（1910年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `aesch-mezareph/` | 『Aesch Mezareph or Purifying Fire』（1714年英訳、ウェストコット編『Collectanea Hermetica』第4巻、1894年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
-| `hermetic-arcanum/` | Jean d'Espagnet『The Hermetic Arcanum』（1623年、アシュモール英訳。ウェストコット編『Collectanea Hermetica』第1巻、1893年） | 全訳完了（作業メモ・note用原稿あり） |
+| `hermetic-arcanum/` | Jean d'Espagnet『The Hermetic Arcanum』（1623年、アシュモール英訳。ウェストコット編『Collectanea Hermetica』第1巻、1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
