@@ -24,6 +24,7 @@
 | `sanctum-regnum/` | Éliphaz Lévi『The Magical Ritual of the Sanctum Regnum, interpreted by the Tarot Trumps』（ウェストコット編訳、1896年。図版8枚） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `arbatel/` | 『Arbatel of Magick』（ラテン語原典1575年、ロバート・ターナー英訳1655年。オリンポスの七霊の印章つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `heptameron/` | 伝ピエトロ・ダバノ『Heptameron: or, Magical Elements』（ロバート・ターナー英訳1655年。魔法円・七曜の印章つき） | 全訳完了（作業メモ・note用原稿あり。既訳〈大橋喜之訳、2025年〉があるためnote非公開） |
+| `occult-medicine/` | Franz Hartmann『Occult Science in Medicine』（1893年） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
