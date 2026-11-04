@@ -22,6 +22,7 @@
 | `scipio-pythagoras/` | 『Collectanea Hermetica』第5巻（キケロ『スキピオの夢』L・O訳と論考、『ピュタゴラスの黄金の詩句』A・E・A、『ピュタゴラスの象徴』S・A。1894年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `sepher-yetzirah/` | 『Sepher Yetzirah: The Book of Formation and the Thirty Two Paths of Wisdom』（ウェストコット訳、第2版1893年） | 全訳完了（作業メモ・note用原稿あり） |
 | `sanctum-regnum/` | Éliphaz Lévi『The Magical Ritual of the Sanctum Regnum, interpreted by the Tarot Trumps』（ウェストコット編訳、1896年。図版8枚） | 全訳完了（作業メモ・note用原稿あり） |
+| `arbatel/` | 『Arbatel of Magick』（ラテン語原典1575年、ロバート・ターナー英訳1655年。オリンポスの七霊の印章つき） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
