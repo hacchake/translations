@@ -19,7 +19,7 @@
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
-| `vaughan-coelum-terrae/` | Thomas Vaughan『Coelum Terrae』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり） |
+| `vaughan-coelum-terrae/` | Thomas Vaughan『Coelum Terrae』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `iliad/` | ホメロス『イーリアス』（ギリシア語原典） | 完了（4歌ずつ6本と各歌要約の記事をnoteで公開） |
 | `theogony/` | ヘーシオドス『神統記』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
 | `works-and-days/` | ヘーシオドス『仕事と日』（ギリシア語原典） | 全訳完了（用語集・作業メモ・note用原稿あり） |
