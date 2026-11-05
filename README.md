@@ -26,6 +26,7 @@
 | `heptameron/` | 伝ピエトロ・ダバノ『Heptameron: or, Magical Elements』（ロバート・ターナー英訳1655年。魔法円・七曜の印章つき） | 全訳完了（作業メモ・note用原稿あり。既訳〈大橋喜之訳、2025年〉があるためnote非公開） |
 | `occult-medicine/` | Franz Hartmann『Occult Science in Medicine』（1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `pronaos/` | Franz Hartmann『In the Pronaos of the Temple of Wisdom』（1890年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
+| `training-initiate/` | Dion Fortune『The Training and Work of an Initiate』（1930年） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
