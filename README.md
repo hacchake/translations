@@ -28,6 +28,7 @@
 | `pronaos/` | Franz Hartmann『In the Pronaos of the Temple of Wisdom』（1890年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
 | `training-initiate/` | Dion Fortune『The Training and Work of an Initiate』（1930年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
 | `westcott-alchymy/` | "Sapere Aude"（W. Wynn Westcott）『The Science of Alchymy, Spiritual and Material』（1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
+| `with-the-adepts/` | Franz Hartmann『With the Adepts: An Adventure among the Rosicrucians』（1910年改訂版、初版1887年） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
