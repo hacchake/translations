@@ -31,7 +31,7 @@
 | `with-the-adepts/` | Franz Hartmann『With the Adepts: An Adventure among the Rosicrucians』（1910年改訂版、初版1887年） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
 | `levi-paradoxes/` | Éliphas Lévi『The Paradoxes of the Highest Science』（英訳1883年、第二版1922年。E・Oと英訳者の注つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
 | `among-the-gnomes/` | Franz Hartmann『Among the Gnomes: An Occult Tale of Adventure in the Untersberg』（1895年。挿絵入り） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
-| `paracelsus-aurora/` | Paracelsus『The Aurora of the Philosophers』（A. E. Waite 英訳、1894年。ラテン語原典1575年） | 全訳完了（作業メモ・note用原稿あり） |
+| `paracelsus-aurora/` | Paracelsus『The Aurora of the Philosophers』（A. E. Waite 英訳、1894年。ラテン語原典1575年） | 全訳完了（作業メモ・note用原稿あり。2026-11-07 にnote公開済み） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
