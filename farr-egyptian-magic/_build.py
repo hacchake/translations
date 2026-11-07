@@ -19,6 +19,20 @@ tail = """---
 #フローレンスファー #エジプト魔術 #黄金の夜明け団 #グノーシス #オカルト #翻訳 #パブリックドメイン
 """
 
+def table_to_list(s):
+    # note は表を表示できないので箇条書きにする
+    out = []
+    for l in s.split("\n"):
+        if l.startswith("|"):
+            c = [x.strip() for x in l.strip().strip("|").split("|")]
+            if c[0].startswith("決定詞") or set(c[0]) <= set("-"):
+                continue
+            out.append(f"- {c[0]}＝{c[1]}：{c[2]}")
+        else:
+            out.append(l)
+    return "\n".join(out)
+
+
 title, rest = head.split("\n", 1)
 parts = [
     ("（一）", (1, 2, 3), "第一回には、口絵「人間の諸部分」と、本文の前半――エジプト魔術の原理、『死者の書』第六十四章、ハリス魔術パピルス、超自然の出現の理論、ラーとイシスの伝説、物語に見える魔術の例、王と神々への讃歌――を収めます。"),
