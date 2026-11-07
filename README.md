@@ -36,6 +36,7 @@
 | `neville-isle-of-pines/` | Henry Neville『The Isle of Pines』（1668年。初版扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-07 にnote公開済み） |
 | `farr-egyptian-magic/` | S. S. D. D.（Florence Farr）『Egyptian Magic』（ウェストコット編『Collectanea Hermetica』第8巻、1896年。口絵・印章図版つき） | 全訳完了（作業メモ・note用原稿2本あり。2026-11-07 にnote公開済み） |
 | `bennett-wisdom-aryas/` | Allan Bennett（Ananda M.）『The Wisdom of the Aryas』（1923年。初版扉つき） | 全訳完了（作業メモ・note用原稿3本あり。2026-11-07 にnote公開済み） |
+| `macaria/` | [Gabriel Plattes]『A Description of the Famous Kingdome of Macaria』（1641年） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
