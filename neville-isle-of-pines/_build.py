@@ -12,7 +12,7 @@ tail = """---
 
 ## 出典
 
-> 原著：Henry Neville, The Isle of Pines, London, 1668. 作業の基にした本文：Project Gutenberg #21410（Worthington Chauncey Ford, The Isle of Pines, 1668: An Essay in Bibliography, Boston, 1920 所収）。扉図版も同書による
+> 原著：Henry Neville, The Isle of Pines, London, 1668. 作業の基にした本文：Project Gutenberg 第21410番（Worthington Chauncey Ford, The Isle of Pines, 1668: An Essay in Bibliography, Boston, 1920 所収）。扉図版も同書による
 > 原著は日本・米国・英国で保護期間が満了しています。訳文は人工知能（Claude Opus 5.5）による翻訳であり、誤りを含む可能性があります。
 
 #ヘンリーネヴィル #パインズ島 #ユートピア #漂流記 #古典 #翻訳 #パブリックドメイン

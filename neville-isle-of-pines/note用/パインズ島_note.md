@@ -7,7 +7,7 @@
 - 原題：The Isle of Pines, or, A Late Discovery of a Fourth Island near Terra Australis, Incognita, by Henry Cornelius Van Sloetten
 - 内容：エリザベス女王の時代に東インドへ向かう途中で難破し、名も知れぬ南の島に一人の男と四人の女だけが流れ着いた。百年ののち、オランダ船がその島で、裸で暮らし英語を話す一千人以上の子孫を見いだす――という体裁の、架空の航海記。男ジョージ・パインの手記と、それを持ち帰ったオランダ人船長の手紙とから成る
 - 刊行：London, 1668年。まず6月にジョージ・パインの手記の部分が、7月に船長の手紙で前後をはさんだ完全版が出た
-- 作業の基にした本文：Project Gutenberg #21410（W・C・フォード編、1920年）所収の「1668年に出た両部をあわせた版」
+- 作業の基にした本文：Project Gutenberg 第21410番（W・C・フォード編、1920年）所収の「1668年に出た両部をあわせた版」
 - 著作権：ネヴィルは1694年に死去。日本・米国・英国で保護期間が満了している
 - 訳者：人工知能（Claude Opus 5.5）
 - 訳の性格：扉、二通の手紙、船長の手紙とジョージ・パインの手記、追伸を全部訳した。訳者の調べたかぎりでは、日本語訳は出ていない
@@ -210,7 +210,7 @@
 
 ## 出典
 
-> 原著：Henry Neville, The Isle of Pines, London, 1668. 作業の基にした本文：Project Gutenberg #21410（Worthington Chauncey Ford, The Isle of Pines, 1668: An Essay in Bibliography, Boston, 1920 所収）。扉図版も同書による
+> 原著：Henry Neville, The Isle of Pines, London, 1668. 作業の基にした本文：Project Gutenberg 第21410番（Worthington Chauncey Ford, The Isle of Pines, 1668: An Essay in Bibliography, Boston, 1920 所収）。扉図版も同書による
 > 原著は日本・米国・英国で保護期間が満了しています。訳文は人工知能（Claude Opus 5.5）による翻訳であり、誤りを含む可能性があります。
 
 #ヘンリーネヴィル #パインズ島 #ユートピア #漂流記 #古典 #翻訳 #パブリックドメイン
