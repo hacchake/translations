@@ -34,6 +34,7 @@
 | `paracelsus-aurora/` | Paracelsus『The Aurora of the Philosophers』（A. E. Waite 英訳、1894年。ラテン語原典1575年） | 全訳完了（作業メモ・note用原稿あり。2026-11-07 にnote公開済み） |
 | `philalethes-open-entrance/` | Eirenaeus Philalethes『An Open Entrance to the Closed Palace of the King』（ラテン語原典1667年。英訳による。扉図版つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-07 にnote公開済み） |
 | `neville-isle-of-pines/` | Henry Neville『The Isle of Pines』（1668年。初版扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-07 にnote公開済み） |
+| `farr-egyptian-magic/` | S. S. D. D.（Florence Farr）『Egyptian Magic』（ウェストコット編『Collectanea Hermetica』第8巻、1896年。口絵・印章図版つき） | 全訳完了（作業メモ・note用原稿2本あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
