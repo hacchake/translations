@@ -39,7 +39,7 @@ parts = [
     ("（二・完）", (4, 5, 6), "第二回には、本文の後半――エジプトのグノーシスの魔術と、ブルース写本からの抜粋（プレーローマの深淵とアイオーンたち、三つの洗礼とその印章、大いなる名）、そして結び――を収めます。"),
 ]
 for n, (sub, rng, summ) in enumerate(parts, 1):
-    b = "\n\n".join(p[i] for i in rng)
+    b = table_to_list("\n\n".join(p[i] for i in rng))
     h = rest if n == 1 else rest.split("\n## この本について")[0]
     note = f"<!-- note投稿用（全訳から生成） -->\n\n{title} {sub}\n{h}\n\n## この記事の内容\n\n　{summ}\n\n---\n\n{b}\n\n{tail}"
     (D / f"note用/エジプト魔術_note_{n}.md").write_text(note, encoding="utf-8")
