@@ -17,7 +17,7 @@
 | `westcott-numbers/` | W. Wynn Westcott『Numbers: Their Occult Power and Mystic Virtues』（第三版1911年） | 全訳完了（作業メモ・note用原稿3本あり。2026-10-31にnote公開済み） |
 | `westcott-kabalah/` | W. Wynn Westcott『An Introduction to the Study of the Kabalah』（1910年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `aesch-mezareph/` | 『Aesch Mezareph or Purifying Fire』（1714年英訳、ウェストコット編『Collectanea Hermetica』第4巻、1894年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
-| `hermetic-arcanum/` | Jean d'Espagnet『The Hermetic Arcanum』（1623年、アシュモール英訳。ウェストコット編『Collectanea Hermetica』第1巻、1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
+| `hermetic-arcanum/` | Jean d'Espagnet『The Hermetic Arcanum』（1623年、アシュモール英訳。ウェストコット編『Collectanea Hermetica』第1巻、1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み。商業出版の既訳あり：有田忠郎訳『自然哲学再興・ヘルメス哲学の秘法』白水社1977） |
 | `chaldean-oracles/` | 『The Chaldaean Oracles of Zoroaster』（ウェストコット編・改訂、L・O序論。『Collectanea Hermetica』第6巻、1895年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `scipio-pythagoras/` | 『Collectanea Hermetica』第5巻（キケロ『スキピオの夢』L・O訳と論考、『ピュタゴラスの黄金の詩句』A・E・A、『ピュタゴラスの象徴』S・A。1894年） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `sepher-yetzirah/` | 『Sepher Yetzirah: The Book of Formation and the Thirty Two Paths of Wisdom』（ウェストコット訳、第2版1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
