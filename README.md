@@ -43,6 +43,7 @@
 | `sophic-hydrolith/` | [Johann Ambrosius Siebmacher]『The Sophic Hydrolith; or, Water Stone of the Wise』（1619年。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `demonstration-of-nature/` | 伝 Jean de Meun（John A. Mehung）『A Demonstration of Nature』（『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `only-true-way/` | 著者不詳『The Only True Way』（1677年。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
+| `tract-great-price/` | ドイツの一賢者『A Tract of Great Price concerning the Philosophical Stone』（1423年とされる。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
