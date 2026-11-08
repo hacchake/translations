@@ -41,7 +41,7 @@
 | `golden-tract/` | 『The Golden Tract concerning the Stone of the Philosophers』（ドイツの匿名の哲学者。『ヘルメス博物館』1625/1678年、A. E. Waite 英訳1893年。扉と図版つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `golden-age-restored/` | Henricus Madathanus（Adrian von Mynsicht）『The Golden Age Restored』（1625年。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `sophic-hydrolith/` | [Johann Ambrosius Siebmacher]『The Sophic Hydrolith; or, Water Stone of the Wise』（1619年。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
-| `demonstration-of-nature/` | 伝 Jean de Meun（John A. Mehung）『A Demonstration of Nature』（『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
+| `demonstration-of-nature/` | 伝 Jean de Meun（John A. Mehung）『A Demonstration of Nature』（『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
