@@ -45,7 +45,7 @@
 | `only-true-way/` | 著者不詳『The Only True Way』（1677年。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `tract-great-price/` | ドイツの一賢者『A Tract of Great Price concerning the Philosophical Stone』（1423年とされる。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
 | `book-of-alze/` | ドイツの無名の賢者『The Book of Alze』（『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉と VITRIOL の紋章つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-08 にnote公開済み） |
-| `testament-of-cremer/` | 伝 John Cremer『The Testament of Cremer』（マイアー編『黄金の三脚台』1618年、『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
+| `testament-of-cremer/` | 伝 John Cremer『The Testament of Cremer』（マイアー編『黄金の三脚台』1618年、『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
