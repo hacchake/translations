@@ -54,6 +54,7 @@
 | `paracelsus-coelum/` | Paracelsus『The Coelum Philosophorum』『The Tincture of the Philosophers』『The Gradations of Metals』『The Treasure of Treasures』『The Transmutations of Metals and of Cements』（A. E. Waite 英訳1894年第一巻。注の『ヘルメスの黙示』を含む。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
 | `paracelsus-nature/` | Paracelsus『Concerning the Nature of Things』（De natura rerum、全九書。A. E. Waite 英訳1894年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
 | `paracelsus-planets/` | Paracelsus『Concerning the Spirits of the Planets』（De spiritibus planetarum。A. E. Waite 英訳1894年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
+| `paracelsus-minerals/` | Paracelsus『The Economy of Minerals』『The Composition of Metals』（Oeconomia mineralium と De compositione metallorum。A. E. Waite 英訳1894年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿3本あり。未投稿） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
