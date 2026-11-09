@@ -53,6 +53,7 @@
 | `new-chemical-light/` | Michael Sendivogius『The New Chemical Light』（Novum Lumen Chymicum, 1604; Tractatus de Sulphure, 1616。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年第二巻。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
 | `paracelsus-coelum/` | Paracelsus『The Coelum Philosophorum』『The Tincture of the Philosophers』『The Gradations of Metals』『The Treasure of Treasures』『The Transmutations of Metals and of Cements』（A. E. Waite 英訳1894年第一巻。注の『ヘルメスの黙示』を含む。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
 | `paracelsus-nature/` | Paracelsus『Concerning the Nature of Things』（De natura rerum、全九書。A. E. Waite 英訳1894年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
+| `paracelsus-planets/` | Paracelsus『Concerning the Spirits of the Planets』（De spiritibus planetarum。A. E. Waite 英訳1894年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
