@@ -50,6 +50,7 @@
 | `maier-subtle-allegory/` | Michael Maier『A Subtle Allegory concerning the Secrets of Alchemy』（『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉の銅版画つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
 | `philalethes-three-treatises/` | Eirenaeus Philalethes『The Three Treatises』（Metamorphosis of Metals／Short Vade Mecum to the Celestial Ruby／Fount of Chemical Truth、1668年。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
 | `glory-of-the-world/` | 著者不詳『The Glory of the World, or, Table of Paradise』（Gloria Mundi, alias Paradeiss Taffel。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-09 にnote公開済み） |
+| `new-chemical-light/` | Michael Sendivogius『The New Chemical Light』（Novum Lumen Chymicum, 1604; Tractatus de Sulphure, 1616。『ヘルメス博物館』1678年、A. E. Waite 英訳1893年第二巻。扉つき） | 全訳完了（作業メモ・note用原稿あり） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
