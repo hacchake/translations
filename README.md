@@ -58,6 +58,7 @@
 | `paracelsus-elements/` | Paracelsus『The Generations of the Elements』ほか小論三篇（金属の水銀・硫黄・クロクス。A. E. Waite 英訳1894年第一巻。扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-10 にnote公開済み） |
 | `westcott-isiac/` | W. Wynn Westcott『Tabula Bembina sive Mensa Isiaca. The Isiac Tablet of Cardinal Bembo』（1887年。イシス表の口絵、レヴィの図、ウェストコットの図、扉つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-10 にnote公開済み） |
 | `aradia/` | Charles G. Leland『Aradia, or the Gospel of the Witches』（1899年。扉つき） | 全訳完了（作業メモ・note用原稿3本あり。第1・2回は2026-11-10、第3回は2026-11-11にnote公開済み） |
+| `daemonologie/` | James VI（James I）『Daemonologie, In Forme of a Dialogue』（1597年）と付録『Newes from Scotland』（1591年）（扉と木版画4点つき） | 全訳完了（作業メモ・note用原稿4本あり。note未公開） |
 | `vaughan-anthroposophia/` | Thomas Vaughan『Anthroposophia Theomagica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-anima-magica/` | Thomas Vaughan『Anima Magica Abscondita』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
 | `vaughan-magia-adamica/` | Thomas Vaughan『Magia Adamica』（1650年。ウェイト編1888年版による） | 全訳完了（作業メモ・note用原稿あり。2026-11-04にnote公開済み） |
