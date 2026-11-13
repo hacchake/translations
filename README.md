@@ -27,6 +27,7 @@
 | `occult-medicine/` | Franz Hartmann『Occult Science in Medicine』（1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `pronaos/` | Franz Hartmann『In the Pronaos of the Temple of Wisdom』（1890年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
 | `training-initiate/` | Dion Fortune『The Training and Work of an Initiate』（1930年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
+| `butler-machines/` | Samuel Butler「Darwin Among the Machines」（1863年）・「Lucubratio Ebria」（1865年） | 全訳完了（作業メモ・note用原稿2本あり。note未投稿） |
 | `westcott-alchymy/` | "Sapere Aude"（W. Wynn Westcott）『The Science of Alchymy, Spiritual and Material』（1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
 | `with-the-adepts/` | Franz Hartmann『With the Adepts: An Adventure among the Rosicrucians』（1910年改訂版、初版1887年） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
 | `levi-paradoxes/` | Éliphas Lévi『The Paradoxes of the Highest Science』（英訳1883年、第二版1922年。E・Oと英訳者の注つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-06 にnote公開済み） |
