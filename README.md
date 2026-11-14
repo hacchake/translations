@@ -24,6 +24,7 @@
 | `sanctum-regnum/` | Éliphaz Lévi『The Magical Ritual of the Sanctum Regnum, interpreted by the Tarot Trumps』（ウェストコット編訳、1896年。図版8枚） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `arbatel/` | 『Arbatel of Magick』（ラテン語原典1575年、ロバート・ターナー英訳1655年。オリンポスの七霊の印章つき） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `heptameron/` | 伝ピエトロ・ダバノ『Heptameron: or, Magical Elements』（ロバート・ターナー英訳1655年。魔法円・七曜の印章つき） | 全訳完了（作業メモ・note用原稿あり。既訳〈大橋喜之訳、2025年〉があるためnote非公開） |
+| `fourth-book/` | 伝アグリッパ『オカルト哲学第四の書』、伝アグリッパ「ジオマンシーについて」、ピクトリウス「イサゴーゲー（霊の本性について）」、伝クレモナのゲラルドゥス「天文的ジオマンシー」（ロバート・ターナー英訳1655年。序文・献詩、文字表・図版つき） | 全訳完了（作業メモ・note用原稿4本あり。note未投稿。第四の書本体には既訳〈大橋喜之訳、2025年〉あり） |
 | `occult-medicine/` | Franz Hartmann『Occult Science in Medicine』（1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `pronaos/` | Franz Hartmann『In the Pronaos of the Temple of Wisdom』（1890年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
 | `training-initiate/` | Dion Fortune『The Training and Work of an Initiate』（1930年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
