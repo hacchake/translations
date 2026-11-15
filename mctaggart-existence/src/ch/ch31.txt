@@ -1,0 +1,289 @@
+THE UNITY OF THE UNIVERSE
+
+278. We have now arrived at various results about various parts of the universe, and the question remains, what is the nature of the bond which unites all these parts together. In other words, what sort of unity has the universe?
+
+Like every other substance, the universe is a unity of manifestation as well as a unity of composition. Its. nature as a whole may as truly be said to manifest itself in its several qualities, as to be made up of these qualities. And, passing from the relation in which it stands to its qualities to the relation in which it stands to its parts, the universe itself may as truly be said to manifest itself in its parts as to be made up of them. It is, therefore, an organic unity.
+
+The fact that it can be regarded as a unity of manifestation and as an organic unity is not unimportant about any substance. And, as we saw above (Section 160) this fact has a special importance in the case of the universe. But although this unity is specially important in the case of the universe, it is only the same unity which is possessed by every substance in the universe. And therefore it tells us nothing about the amount of unitv in the universe. For the unity of some substances is very slight. Every group of substances in the universe, however arbitrarily selected, and however slightly connected, is, as we have seen, a substance, and therefore a unity of manifestation, and an organic unity.
+
+I do not see that it is possible, from the results which we have reached so far, to determine anything more as to the unity possessed by the universe. But if some qualities, which we have seen to be possible, though not necessary, qualities of the universe, were actually qualities of it, much more definite and distinctive unity might be ascribed to the universe. And it is worth while to work out some of these cases, and to see what
+
+results would follow from suppositions which are at any rate possible.
+
+279. Let us first consider the group of assumptions which would bring about the closest unity. It is possible that the universe should consist of several primary wholes or of one only. Let us assume that it consists of only one primary whole. It is possible either that all the primary parts in the universe should be determinants, or that some of them should be only determined and not determinant. Let us assume that they are all determinants. If they are all determinants, it is possible that every primary part should determine a part of every other primary part, but it is possible that this should not be the case. Let us assume that it is the case. Then, if this assumption is made, it is possible that every primary part directly determines a part of every other primary part, or that in some cases the determination is only indirect. Let us assume that it is in all cases direct. Finally, it is possible that the determining correspondence is of the same sort throughout the universe, or that it is of different sorts in different cases. Let us assume it is always of the same sort. We will call the view that the universe is such as it would be if these assumptions were correct, the first supposition.
+
+280. On this supposition the unity of the universe is in many respects very close. To begin with, every primary part in the universe is the determinant of a part within each primary part. That is to say, the determinants of the parts within each primary part are a set of parts of the universe, and contain all its content. And this relation links the universe as a whole more closely as to each of its parts, and, through the whole, links the parts more closely to each other. And, since determining correspondence between two substances involves the intrinsic determination of the nature of the determinate by part of the nature of the determinant, there will be a relation of intrinsic determination between the natures of all the primary parts of the universe, on the one hand, and the natures of all the secondary parts in each primary part, on the other hand — a relation, that is, of causal determination.
+
+It is not, indeed, necessarily the whole nature of the secondary
+
+part which is intrinsically determined by the whole nature of the primary part to which it corresponds. It is possible that there should be qualities in the secondary part which are not determined by anything in the primary part, and qualities in the primary part which determine nothing in the secondary part. But at any rate so much of the nature of the primary part as will distinguish it from all others stands in this relation to as much of the nature of the secondary part as will distinguish it from all other parts of the primary part to which it belongs.
+
+It will also, of course, follow that each secondary part of the first grade throughout the universe stands in a similar relation to a secondary part of the second grade within each primary part, and so on infinitely. And this network of causal relations— much closer and more inclusive than would have been the case except on the present supposition — introduces a good deal more unity into the universe.
+
+281. Another point must also be considered. In each primary part there are secondary parts which are determined by each primary part. And by our supposition the particular relation of determining correspondence is the same in every case of determining correspondence throughout the universe. From this it follows that in any primary part B, not only will all its secondary parts of the first grade have a one-to-one correspondence with the primary parts of the universe, but there will be a system of relations existing between those secondary parts of B which may be called homologous to a system of relations existing between the primary parts of the universe. For the manner in which these secondary parts are determined by determining correspondence will depend for each of them upon three things— the fact that it is a secondary part of B, and of the first grade, the fact that the particular relation of determining correspondence is what it is, and the fact that the primary part which is its determinant has a certain nature. And the first two of the facts are, on our present assumption, the same for every secondary part of the first grade within B. All dissimilarities, therefore, between the determined sufficient descriptions of these secondary parts of B must correspond to
+
+dissimilarities between the determinant sufficient descriptions of the primary parts, and all similarities which exist between some, but not all, of these sufficient descriptions of the secondary parts must correspond to like similarities between some, but not all, of the sufficient descriptions of the primary parts. For such dissimilarities and exclusive similarities cannot be determined by the two data which are the same for all the secondary parts in question, and must therefore be determined by the only datum which varies for the different secondary parts — that is, the various primary parts to which they correspond. Since the system of relations between B's secondary parts of the first grade will correspond in this way to the system of relations between the primary parts of the universe, it may be called homologous to it. Not only will the parts of B correspond to the parts of the universe, but some of the links which connect them together will correspond to some of the links which connect the primary parts together.
+
+But what would happen, it might be asked, if the sufficient description of each primary part of the universe, to which the secondary parts of B corresponded, was in each case just some simple quality, possessed by that primary part and by nothing else? Then there would be no exclusive similarities to be reproduced, and no dissimilarities, except the uniform one that each primary part had a different simple determinant quality from all the others. In this case what would be the system of relations among the primary parts which would be reproduced among the secondary parts of B%
+
+But even in this case it would still be true that a system of relations of the primary parts within the universe would correspond to a system of relations of the secondary parts of the first grade within B. For the determinant sufficient descriptions of the primary parts would have this relation to each other — that each consisted of a different quality, and that between those qualities there were to be found no exclusive similarities or exclusive common dissimilarities. And, in the same way, that part of the determined sufficient descriptions of the parts of B which distinguished them from one another would be in each case a different quality and between those qualities there would be
+
+found no exclusive similarities or exclusive common dissimilarities. And thus the system* of relations of the determinates might, as in the other cases, be said to be homologous to the system of relations of the determinants. The system of relations between the parts of B would indeed be one which formed onlv a slight unity between them, but in that respect it would correspond to the system of relations between the primary parts, which also form onlv a slight unity.
+
+282. The extent to which the relations between the primarv parts are homologous to those among the secondary parts of B must not be exaggerated. We have seen that it is not necessarv that every quality of each determinant primary part should enter into its determinant sufficient description, or be implied in it. The primary part may have many other qualities which are independent of this particular sufficient description, and we have no reason to suppose that there will be anything correspondent to them in the secondary parts of B, or that the relations which are dependent on those qualities will be homologous to any relations among the secondary parts of B. And, again, we have seen that it is not necessary that every quality of each secondary part should enter into its determinant sufficient description, or be implied in it. And so there may be, dependent on these qualities, many relations which are not homologous to any relations which occur between primary parts of the universe. But, after allowing for all this, it remains true that the corresponding qualities are sufficient, on the one side, to differentiate each primary part from all the others in the universe, and, on the other side, to differentiate each of the secondary parts of B from all the others. And since the corresponding qualities are, at any rate, as exhaustive as this, the homologous relations cannot be insignificant.
+
+283. We have established, then, that the secondary parts of B of the first grade correspond to the primary parts of the universe, and that various relations between these secondary parts of B correspond to relations between the primary parts of the universe. But if we take the primary parts, not in any abstract isolation, but in the relations which they really bear to each other, we have the universe as it really is. And, if we
+
+take the secondary parts of B in the same way, we have B as it really is. We are thus entitled to say that B, and every other primary part of the universe, corresponds to the universe in respect of its parts, and of relations between them.
+
+It must be noted, with regard to this correspondence of the primary parts with the universe, that it is only derivative. The primary fact is the correspondence of the secondary parts of the first grade with the primary parts, and it is from this, as we have seen, that the correspondence of the primary parts with the universe arises.
+
+284. The universe then, on the supposition which we are now considering, has the quality that each member of a certain set of its parts corresponds with the universe as a whole. We may call this quality, by a metaphor which is not inappropriate, the quality of Self-Reflection.
+
+Self-reflection is a form of unity. A whole which is selfreflecting has an additional sort of unity, which is not shared by any whole which is not self-reflecting. For a self-reflecting whole is connected in a special way with its parts. And, through this, the parts in question are connected in a special way with each other, since each of them has a system of internal relations between their own parts, all of which correspond with the same system, and so correspond with each other.
+
+We must distinguish between that relation of a whole to its parts which follows from the fact that it is an organic unity, and that other relation of a whole to its parts which follows from the fact that it is a self-reflecting unity. In an organic unity, as we saw in Chapter xx, the parts manifest the whole. But the whole is only manifested in all the members, taken together, of any one set of its parts. It is not manifested in one member by itself. But a self-reflecting unity is reflected separately in each member of the set of parts in which the reflection takes place. Every substance is an organic unity, and therefore every substance which is a self -reflecting unity possesses two sorts of unity — organic unity and unity of self-reflection.
+
+It may be objected that such a term as self-reflection exaggerates the closeness of the connection between the universe and each primary part, since there is no reason to suppose that
+
+the primary parts resemble the universe except in the system of their internal relations. This, however, does not make the metaphor inappropriate, since a reflection is not an exact copy of the object reflected. The object may be in three dimensions, and the reflection is in two. The object may be a mountain, and the reflection may be in a hand-glass. But such differences do not prevent the one from being a reflection of the other.
+
+285. If the universe is a self -reflecting unity, it is thereby distinguished from many other substances, if not from all. For the course of our argument has shown us that, if any substance is to be a unity which is self -reflecting into parts determined by determining correspondence, and self-reflecting in consequence of that correspondence, it can only be on one condition. That condition is that it should have a set of parts, each member of which has as its differentiating group all the other members of that group, and nothing but those members. That is to say, no part of it must be determined by correspondence to anything outside it. Now we saw, in Chapter xxiv, that every primary part must have some other primary part in its differentiating group, and that, therefore, some members, at least, of every set of its parts will be determined by something outside itself. And the same will consequently be the case with secondary parts, of whatever grade.
+
+The only case, therefore, which is not excluded, is the case of a substance which is a group of primary parts, each member of which has as its differentiating group all the members of that group, and nothing but those members1. But if the universe is such a group, as it is on our present supposition, there can be no other substance, in the same system of determining correspondence, which is such a group. For then every primary part has all others in its differentiating group, and cannot, therefore, be a member of any self-reflecting group which excludes any primary part — that is, of any self-reflecting group except the universe.
+
+1 In other words, a set of parts of each member of the group would be directly determined by the members of the group. A reciprocally determined group is not necessarily a self-reflecting group, since a group is reciprocally determined when each member of it determines parts of each of the members of the group, either directly or indirectly.
+
+Unless, then, there are several independent systems of determining correspondence in the universe, no other substance could share with the universe the quality of being a unity which is self-reflecting into parts determined by determining correspondence, and which is self-reflecting in consequence of that correspondence.
+
+It is possible, no doubt, that there may be unities of selfreflection into parts otherwise determined, or in consequence of other determination. But we have no reason to suppose that this is actually the case.
+
+It is also to be noticed that the self-reflection of the universe is not confined to reflection in each of its primary parts. Within each secondary part of the first grade there will be a set of secondary parts of the second grade, each of which will have as its final determinant one of the primary parts of tbe universe. And consequently it will follow, by an argument analogous to that with regard to primary parts, that each secondary part of the first grade will correspond to the universe in respect of its internal system, and may therefore be said to reflect the universe. And the same will be true of the secondary parts of all lower grades to infinity.
+
+And this last characteristic of the self-reflection of the universe — that self-reflection in the members of one set of parts involves self-reflection in the members of the infinite series of sequent states — could not be shared by any self- reflecting unity when the self-reflection did not depend on determining correspondence. For it is only by determining correspondence that what happens in one set of parts can involve what happens in all the infinite series of sequent sets. If, therefore, the universe is self-reflecting through an infinite series of sequent sets of parts, no other substance could also have that quality, unless there was more than one system of determining correspondence.
+
+286. We saw, in Sections 146 and 147, that there are two qualities which are sometimes asserted to belong to every organic unity. One is that the whole is in every part. The other is that each part expresses the nature of the whole. We saw that the fact that a substance is an organic unity did not make either of these statements literally true of that substance. But
+
+we saw also that the fact that each part of an organic whole performed an unique function in the manifestation of the whole, made the use of these expressions, though incorrect, not unnatural.
+
+Now when an organic unity is also a self-reflecting unity, the expressions, though still not correct, are more appropriate than they would be if the unity was organic without being selfreflecting. It is less inappropriate to say that the whole is in each part if the unity is self- reflecting. For a whole, while it is manifested in its parts, is not manifested in each part separately, while in a self-reflecting unity the whole is reflected separately in each part of the set of reflecting parts. This is not equivalent to the whole being in each part, which is impossible, but it has a certain resemblance to it.
+
+x4.gain, it is less inappropriate to say that each part expresses the nature of the whole if a unity is self-reflecting than if it is only organic. For the nature of the whole is only very partially expressed in the fact that a particular substance is one of the parts which manifest it. But in a self-reflecting unity each of the reflecting parts has within it a system of reflection homologous to a system of relations which exists within the whole. And although this does not make each part express the whole nature of the whole, it gets nearer to it than would otherwise have been the case.
+
+287. Our first supposition, then, if true, would give a unity to the universe which would be much closer than that unity which we have seen that the universe certainly does possess. But, even on this supposition, the universe will not be a whole in which the unity is more fundamental than its differentiations, or even as fundamental as its differentiations. For nothing in our present supposition lessens the force of those arguments which lead us to conclude, in Section 256, that the primary parts occupy a position of unique significance in the fundamental system, and so in existence. Sufficient descriptions of the primary parts are not necessarily implied in any sufficient description of the universe — except in one which actually contains sufficient descriptions of the primary parts as elements in it. On the other hand any sufficient descriptions of all the
+
+members of the set of primary parts of the universe implies a sufficient description of the universe1. And for this reason it must, I think, be said that even on the supposition which we have just been discussing, the aspect of differentiation in the universe is more fundamental than the aspect of unity.
+
+288. Such are the results of our first supposition. But, as has already been said, we have no reason to believe that this supposition agrees with the facts, and we must proceed to consider what would follow from other suppositions. Let us now suppose that the first four of the assumptions which made up our first supposition are correct, but that the fifth is not. Let us assume, that is, that the universe forms a single primary whole. Let us assume that every primary part in the universe is determinant. Let us assume that every primary part determines a part in every other primary part, and that it determines it directly. Let us, however, no longer assume that the determining correspondence is of the same sort throughout the universe, but let us admit the possibility that it is of different sorts2. What conclusions about the unity of the universe could be deduced in the case of this second supposition?
+
+289. It will still be the case, as with the first supposition, that each primary part determines, in each primary part, a secondary part of the first grade, that each secondary part of the first grade in the universe determines, in each secondary part of the first grade, a secondary part of the second grade, and so on to infinity. The network of causal relations will therefore be as close as it was on the first supposition.
+
+But we can no longer say, as we did on the first supposition, that each primary part, and also each secondary part of every
+
+1 This follows from the general principle that any sufficient description of all the members of any set of parts of any whole implies a sufficient description of that whole (cp. Section 187). What is implied will be a sufficient description of the substance which is, in point of fact, the universe. It will not necessarily be implied that this substance has the quality of being the universe. But this does not affect the argument in the text.
+
+2 The sort of determining correspondence might vary with the primary part which was determinant, or with the primary part which was differentiated, or with both. But as we have seen, whatever sort of determining correspondence held between any determinant primary part C, and its determinate Bf C, would have to hold between the parts of C and the parts of B! C. (Section 227.)
+
+grade, stands in a correspondence with the universe in respect of their internal relations, so that each of them may be said to reflect the universe. The argument by which we reached the conclusion that this did occur on the first supposition began by saying that the manner in which those secondary parts are determined by determining correspondence will depend for each of them upon three things — the fact that it is a secondary part of B, and of the first grade, the fact that the particular relation of determining correspondence is what it is, and the fact that the primary part which is its determinant has a certain nature. It then continued by pointing out that the first two of these facts were the same for every secondary part of B of the first grade, and that therefore all dissimilarities and exclusive similarities in the sufficient descriptions of these secondary parts must correspond to dissimilarities and exclusive similarities in the determinant sufficient descriptions of the primary parts. But on our present supposition it is no longer the case that both the first two parts are necessarily the same for each of the secondary parts. The sort of determining correspondence which occurs between C and B! C may possibly be quite different from the sort of determining correspondence which occurs between D and B! B. It does not, therefore, follow that all dissimilarities and exclusive similarities in the determined sufficient descriptions of the parts of B will correspond to similar dissimilarities and similarities in the determinant sufficient descriptions of the primary parts. Some of them may correspond to dissimilarities and exclusive similarities in the different sorts of determining correspondence. We have no reason, therefore, to suppose that there is a system of relations which connects the parts of B, and which is homologous to any system of relations between the primary parts of the universe.
+
+Now our only reason for saying that the primary parts corresponded to the universe at all was that, in the case of the first supposition, we had seen that the parts of each primary part were connected by a system of relations which was homologous with a system which connected the primary parts of the universe. And, since we are not now entitled to say this, we are not now entitled to say that the primary parts do correspond
+
+to the universe, or that the universe is reflected in them. And, on similar grounds, we shall not be entitled to say that the secondary parts of any grade correspond to the universe, or that it is reflected in them.
+
+The second supposition, therefore, does not imply so close a unity in the universe as the first did. And the result which was reached, even on the first supposition, that the plurality in the universe was more fundamental than the unity, will be true a fortiori on the second supposition, as it will be also on the other suppositions which we must now proceed to consider.
+
+290. Let us make our third supposition as follows. Let us still assume that the universe forms a single primary whole, that every primary part in the universe is determinant, and that every primary part determines a part in every other primary part. But let us no longer assume that this determination is in every case direct. That is, if B and C are two primary parts, let us admit the possibility that B may have no part B! C, provided that it has some part of a lower grade, whose final determinant is C, such as B! D! C, B! E! D! C, or the like.
+
+In this case it is clear that the connection between the universe and the primary parts is less close than in the last case. On the second supposition the primary part as a whole did not necessarily reflect the universe, but its parts had a one-to-one correspondence with the primary parts of the universe. But this will not be the case here. The secondary parts of the first grade in each primary part have no longer necessarily a one-to-one correspondence with the primary parts. If the primary parts of the universe were B, C, D, E, it would be possible for B's set of secondary parts of the first grade to be, for example, B! B and B! C, and for C's set to be Of B, C! D, CI E. D, again, might have no secondary parts of the first grade at all, for it might be differentiated by correspondence with B only, so that its highest set of parts would be D! B! B, and D! B! C. None of these sets is in one-to-one correspondence with the set of primary parts, and yet there would be in each primary part a part finally determined by each primary part. In the same way, the secondary parts of the second grade within each secondary part of the first grade are not necessarily
+
+MCT. 20
+
+in one-to-one correspondence with the primary parts of the universe.
+
+It will, however, still be the case, as on the two earlier suppositions, that each primary part is causally related to some part of each primary part, since it does determine a part in each, either directly or indirectly. And, although the network of causal relations will not be so symmetrical as it was on the two last suppositions, it is, in this case as in those, prolonged infinitely downwards. For when a part of B is once found which is determined, directly or indirectly, by C (and, by the supposition, there is such a part of B) then all the parts of that part to infinity are determined by parts of C.
+
+Does the fact that this causal relation takes place through determining correspondence unite the universe more closely than it is united by the fact that there is a causal relation? It is possible that this might be true. But this would depend upon what sort or sorts of determining correspondence did occur, and upon the nature of the characteristics of primary parts. And these are questions which must be postponed till the next Book, and, consequently, to the next volume.
+
+The causal determination, however, is a matter of some importance. For the fact that each primary part has some part determined by every primary part does connect each primary part with all other primary parts (and so with every member of one set of parts of the universe) by intrinsic determination, and this is a closer and more vital bond than the connection by extrinsic determination which we had previously seen to connect all parts of the universe. On the other hand, since the connection here need not be direct, it is possible that in some cases the part of B which is determined by C may be a very small one1. How much this would affect the closeness of the union would again depend on those more concrete considerations which must be postponed till the next Book.
+
+291. We now come to a fourth supposition. Let us continue to assume that the universe forms one primary whole, and that all primary parts are determinants. But let us drop
+
+1 It could be B! E! F! . . .! C, where the number of steps denoted by the asterisks might be any finite number.
+
+the further assumption that every primary part determines a part in every other primary part. Let us suppose, for example, that the universe consists of six primary parts, B, C, D, E, F and G. Let B and C form a reciprocally differentiating group, so that the secondary parts of the first grade which belong to B are B! B and B! C, while those of C are C! B and C! C. Let D and E likewise form a reciprocally differentiating group, and let the differentiating group, both for F and G, be BDFG. Then it will not be possible to form, within the universe, any smaller group K, such that it is not necessary, in order to describe sufficiently every part of K, to introduce any determining correspondence with anything except a part of K. And therefore there are no primary wholes within the universe, which will therefore be a single primary whole. And each primary part is in at least one differentiating group, and is therefore a determinant. But each primary part does not determine a part in each primary part. For neither D, E, F, or G determine any parts in B or C. The parts of B and C are determined by the closed reciprocal group of B and C, and have therefore no primary parts as their determinants, direct or indirect, except B and C. In the same way, neither B, C, F or G determine any parts in D or E.
+
+What can we say about the unity of the universe on this supposition ? It is no longer the case that each primary part is connected with all the others in respect of its determination of parts within them by determining correspondence. But it is still the case that each primary part is connected with each other primary part in respect of determining correspondence. For the universe is still one primary whole, and that means that no group from which any part of the universe is excluded can be self-sufficing in respect of determining correspondence. Every such group must have some part which determines, or is determined by, something outside the group. And this would join all the primary parts of the universe — and through them the secondary parts — more closely than they are joined by extrinsic determination, though less closely than they would be joined on the previous suppositions.
+
+292. Fifthly, we may continue to assume that the universe
+
+forms a single primary whole, but no longer assume that all the primary parts are determinant. We may admit the possibility that some of them should be determined without themselves determining anything.
+
+The unity of the universe which would result on this supposition would be the same as would result on the last. There will now be some primary parts which do not determine parts in any primary part. But this will not destroy any unity in the universe which remained on the previous supposition that there are some primary parts which do not determine parts in all primary parts.
+
+293. The final supposition which we may make is that the universe forms more than one primary whole. This will diminish its unity still further. For now there are different parts of the universe which are independent of each other in respect of determining correspondence. They are not, of course, completely isolated from each other. Everything in the universe is related to everything else. And, in particular, everything in the universe is related to everything else by extrinsic determination. And it is possible that they may be related to each other causally, for there may be other causal relations besides those of determining correspondence. But we have not established the occurrence of any such other causal relations, and it is therefore possible that there may be no causal relations between the primary wholes.
+
+It must be noticed that the assumption that only one sort of determining correspondence occurs throughout the universe may be combined, not only with the assumption that every primary part directly determines a part in every other primary part, but also with any one of the other assumptions — that it determines such a part directly or indirectly, that it is always determinant of a part in some primary part, that, at any rate, it is in the same primary whole with every other primary part, and, finally, that it is not in the same primary whole as all of them. But it will not, I think, appreciably increase the amount of unity in the universe, except in combination with the assumption that every primary part directly determines a part in every primary part.
+
+ch. xxxi] THE UNITY OF THE UNIVEESE :3u9
+
+This concludes the first part of our investigation — the endeavour to determine, as far as possible, the characteristics which belong to all that exists, or which belong to existence as a whole. There remains the consideration of what consequences of theoretical and practical interest can be drawn from the general nature of the universe, thus determined, with respect to various parts of the existent which are empirically known to us. This will find its place in a second volume which I hope to publish in a few years.
+
+INDEX
+
+OF TERMS DEFINED OR TREATED AS INDEFINABLE References are to Sections
+
+Assumption, 8
+
+Awareness, 44
+
+Being, 1
+
+Causal Order, 155
+
+Cause, 207-212
+
+Characteristic, 3
+
+Class, 120
+
+Classification, Order of, 155
+
+Classifying System, 155
+
+Complete Description, 101
+
+Complex Quality, 64
+
+Composition, Unity of, 114
+
+Compound Quality, 64
+
+Compound Substance, 127
+
+Content, 125
+
+Contingency, 109
+
+Derivative Characteristic, 85
+
+Determining Correspondence, 202
+
+Differentiating Group, 202
+
+Differentiation, 73
+
+Dimension, 162
+
+Exclusive Common Quality, 131
+
+Exclusive Description, 101
+
+Existence, 5
+
+Extrinsic Determination, 109
+
+Fact, 10
+
+Fixing of Presupposition, 185
+
+Fundamental System, 248
+
+Grade of Secondary Parts, 202
+
+Group, 120
+
+Implication, 106
+
+Independent Fixing of Presupposition,
+
+Inference, 107
+
+Intrinsic Determination, 108 Laws in the Universe, 258 Manifestation, 114 Member, 120 Minimum Adequate Presupposition,
+
+Nature of Substances and Characteristics, 64
+
+Organic Unity, 149
+
+Original Quality, 86
+
+Part, 123
+
+Perception, 44
+
+Precedent Set of Parts, 181
+
+Presupposition, 183
+
+Primary Part, 202
+
+Primary Quality, 89
+
+Primary Whole, 202
+
+Proposition, 8, 45
+
+Quality, 60
+
+Reality, 2
+
+Reciprocal Correspondence, 201
+
+Reflexive Relation, 84
+
+Relation, 78
+
+Relational Quality, 86
+
+Relationship, 85
+
+Repeating Group, 126
+
+Repeating Quality, 89
+
+Secondary Part, 202
+
+Self-Reflecting Unity, 284
+
+Sequent Set of Parts, 181
+
+Serial Order, 155
+
+Set of Parts, 124
+
+Simple Quality, 64
+
+Sub-Group, 123
+
+Substance, 67
+
+Sufficient Description, 102
+
+Super-primary Whole, 205
+
+Symmetrical Relation, 84
+
+Total Ultimate Presupposition, 186
+
+Transitive Relation, 84
+
+Truth, 10
+
+Unities of Composition and Manifestation, 114
+
+Universe, 135
+
+Whole, 123
+
+CAMBRIDGE : PRINTED BY J. B. PEACE, M.A., AT THE UNIVERSITY PRESS
+
+McTAGCART, JOHN M E The nature of existence.
+
+BD
+
+,M3
+
+v.l
+
+ftO h\f\T
+
+M

@@ -1,0 +1,35 @@
+THE UNIVEESE
+
+135. There can be no group which contains all other groups as its parts. For, as we saw above, every group generates an infinite number of repeating groups, of each of which it is a part, and which cannot therefore be parts of it1.
+
+But no such considerations render it impossible that there should be a substance of which all others are parts. For in a substance no content is taken more than once, and there is therefore nothing in substance analogous to repeating groups.
+
+And, further, we can see that there is a substance of which all others are parts. We have seen that any two or more substances, which do not contain, in whole or in part, the same content, will form a compound substance. There is therefore a compound substance which contains all existent content. For any content which is not in any given substance, A, must be in some substance or substances outside A, and by adding these to A, we shall have a substance, U, which contains all content. For every compound substance other than U will contain some but not all of the content of U, and will therefore be a part of U. And, if there were simple substances, they would all be parts of compound substances, and therefore parts of U.
+
+There is therefore a substance which contains all content, and of which every other substance is a part. This substance is to be called the Universe. From a formal point of view it is indifferent whether we take as a definition of Universe that a universe contains all existent content, or that it is a substance of which all other substances are parts, since possession of either of these qualities involves the possession of the other. The definition by content is perhaps the more fundamental, but
+
+1 Cp. Section 126. A fortiori there can be no group of which all other groups are members.
+
+148 THE UNIVERSE [bk hi
+
+the definition by relation to other substances requires less explanation, and is therefore perhaps more suitable for general use.
+
+Our definition is not of course a definition of the universe, which is a particular substance, and so does not admit of definition. The definition is of "universe," or, in other words, of the quality of being a universe. But it is clear, not only that there must be a universe, but that there cannot be more than one. If there were two, they would each contain all existent content, that is, they would have the same content. And there cannot be more than one substance with the same content.
+
+Since "universe" can only apply to one substance, its application distinguishes that substance from everything else, and is therefore a sufficient description of it. For this reason we speak of the substance as the universe. And we saw1 that in a set of parts of a substance no content can be taken more than once. If all content could have been finally analyzed into simple substances, those simple substances would have been a set of parts of the universe. In any case, the universe will have as many sets of parts as there are combinations of compound substances, such that each of those combinations contains all the content of the universe, and contains none of it more than once2.
+
+136. The fact that any substance other than the universe has a particular quality is an element in a fact about the universe. If it is a fact that John Smith is English and hates Thomas Brown, then it is a fact about the universe that it possesses the quality of having a part with the qualities of John Smith, and that among those qualities are the qualities of being English and of hating Thomas Brown3.
+
+It does not follow from this that the only true way, or the
+
+1 Cp. Section 128.
+
+2 The number of these sets of parts would have been finite if all content could have been finally analyzed into simple substances, and if these were finite in number. Since this is not so, they are infinite in number.
+
+3 The two facts are not identical, since the first is the possession of a quality by John Smith, and the second is the possession of a quality by the universe. But the first fact may be properly said to be an element in the second, since the quality of the universe is its possession of a part with the quality possessed bv John Smith.
+
+ch. xvm] THE UNIVERSE 149
+
+simplest or most ultimate way of stating a fact about such a substance is to state it as an element of a fact about the universe. It has sometimes been maintained that no assertion can be absolutely true unless its subject is the universe. Very probably this would never have been maintained if it had not been really the case that a fact about any other substance is an element of a fact about the universe. But the passage from this to the view that an absolutely true assertion can have no subject except the universe rests, as far as I can see, on a confusion between a statement which is not all the truth and a statement which is not absolutely true. If this confusion were not mitigated by inconsistency, it would lead to the conclusion that no assertion can be absolutely true, even if it is about the universe. For no one assertion, whatever its subject, can express all that is true.
+
+And the statement which does not bring in the universe is as true as the other, and more simple and ultimate. It is as true, for, obviously, if it were not true that Smith had the quality of hating Brown, it would not be true that the universe had the quality of containing a Brown-hating Smith. And it is more simple and ultimate, because it does not bring in the universe, but only Smith, while the other statement has to bring in both Smith and the universe.

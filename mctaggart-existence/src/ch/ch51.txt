@@ -1,0 +1,123 @@
+FURTHER CONSIDERATIONS ON TIME
+
+610. The theory of error which we have now reached is, as will have been seen, very closely connected with the illusion of time. All error is misperception. Every term in the misperception series is a term in the C series, and so appears as a term in the B series, and appears to be in time. Conversely, every term in the C series, except the last, is a term in the misperception series, and, as this last term never appears as being present, it follows that every term which appears as being present is a term in the misperception series.
+
+The nature of the time illusion is that, from the standpoint of each stage in the misperception series, all that is on one side of that stage in the C series appears as future, and all that is on the other side of it as past, while the stage itself appears as present. Moreover, the future appears to be continually becoming present, and the present appears to be continually becoming past. This series of past, present and future is what we have called the A series, on which the B series of earlier and later is de pendent. The term P is earlier than the term Q, if it is ever past while Q is present, or present while Q is future1. But both
+
+1 Two terms may both be present together, although one is earlier than the other. This is due to the fact that the present is a duration, and not an indivisible point. But the statement in the text remains an adequate definition of "earlier than," for although P and Q may at one time be in the same present, yet, before that, P is present while Q is future, and, after that, P is past while Q is present.
+
+Since the present comprises different terms, of which any one will be earlier or later than any other, it might be thought that the fact that P was earlier than Q would be perceived when they were both present, and that " earlier than " need not be denned in terms of the A series. After this, it might be thought, the future might be defined as what is later than the present, and the past as what is earlier than the present. Thus the A series would be defined in terms of the B series, instead of the B series in terms of the A series.
+
+But this would be a mistake. For the series of earlier and later is a time series. We cannot have time without change, and the only possible change is from future to present, and from present to past. Thus until the terms are taken as passing from future to present, and from present to past, they cannot be taken as in time, or as earlier and later; and not only the conception of presentness, but those of pastness and futurity, must be reached before the conceptions of earlier and later, and not vice versa.
+
+these series are only appearance. The C series is real, but no terms are really past, present, or future, and there is no real change. And, since the A series is not real, the B series is also not real.
+
+611. The present, however, of which we speak is not an indi visible point. It has a certain duration, which comprehends more than one term. The C series, as we have seen, consists of simple terms, so that the duration of such a present cannot be divided into parts of parts infinitely. But the number of terms in such a present may be infinite, if no simple term is next to any other simple term. If this is not the case, the number of terms in a present will be finite.
+
+Thus presents overlap one another. We have a present, for example, containing the terms WX. But a later present will contain XY, where W has ceased to be present, and become past, and Y has become present instead of future. And a still later present will have lost both W and X, and will contain Z as well as 7.
+
+There is no fixed magnitude for such presents. Their magnitude may vary from self to self, and from one part to another of the time-series of the same self.
+
+Presents like this are frequently called Specious Presents. It will be convenient, I think, to employ the same name occasionally, in order to remind ourselves that the present of which we are speaking is a duration, and a duration which may vary in length. The special need, however, for the use of such a term, has been removed by the adoption of our theory. If time were real, it would be difficult to avoid accepting the existence of an absolute present — whether a point or a fixed duration — as distinguished from the observed present, which is a duration varying from in dividual to individual, and from time to time. (Cp. Chap, xxxm, pp. 28-29.) And thus it would be necessary to have a special name for the observed present, to distinguish it from the absolute present. But, if there is really no time, but only an illusion of! time, we have no present to consider except the observed present, and to distinguish it by the name of specious present is no longer necessary, though it may be convenient.
+
+612. In this chapter we shall discuss four questions relating
+
+to time. The first is whether, on our theory, we can in any sense assert that two or more selves have a common time-series. The second is whether, on our theory, we can in any sense maintain the ordinary distinction between real and apparent length of time. The third is whether time is to be taken as infinite in length. And the fourth is whether it is to be taken as infinitely divisible.
+
+613. There is, on our theory, no time-series, for nothing is in time. There is no series of events, but a timeless series of misperceptions which perceive a series of timeless existents as being in time. Now every misperception, since it is a perception, must fall within a self, and no misperception can be common to two selves. Two selves can no more have the same misperception than the same fit of toothache. They may have misperceptions which are similar in various respects. In particular they may have misperceptions which are similar in being each of them a misperception of L, and misperceiving it as being X. But they cannot have the same misperception.
+
+It would seem therefore as if there could not be a common time-series. But, on the hypothesis that time was real, there certainly would be a common time-series. My remorse and yours might be really simultaneous, just as my remorse would be really later than my crime. Now we have seen that, although time is not real, the appearance of time is a phenomenon bene fundatum, since the order of the apparent events in time is the same as the order in the inclusion series of the realities which appear as events in time. If, for example, the apparent event of my crime appears, in the time-series, between the apparent events of my temptation and my remorse, then the stage in the in clusion series which appears as the event of my crime will be really, in the inclusion series, between the stages which appear as the events of my temptation and my remorse. And therefore a common time-series between different selves, which would be absolutely real if time were absolutely real, ought to be a phenomenon bene fundatum if time is & phenomenon bene fundatum. In other words, we must be able to say that it is as true that my remorse is simultaneous with yours as it is to say that my remorse is later than my crime.
+
+MCT 1 8
+
+If all percipient selves perceived nothing but one self, and the parts of that self, the question would be simpler. If we take H and G as percipient selves, and L as the perceived self, then the perceptions which H and 0 have of any given state in the (/series of L as present, may be taken as simultaneous with one another, since, sub specie temporis, they stand in the relation of simul taneity to the same thing. And, when points in two different time-series can be taken as simultaneous, the two series form a common time-series.
+
+614. But the hypothesis in the last paragraph does not represent the facts. For we have seen that, in order to establish determining correspondence, there must be primary parts which have differ entiating groups consisting of more than one primary part — in other words, that there must be selves, each of whom perceives more than one self. And we are not certain that any two selves do perceive exactly the same group of selves. We must allow for the possibility, for example, that H perceives only himself, L, and My while G perceives only himself, N, and 0. They have thus no percepta in common. Can they have a common time-series?
+
+I think that we can legitimately speak of a common time-series in this case. The time-series of H and the time-series of G have not, as their respective G series, the same inclusion series. But they have, as their respective G series, correspondent inclusion series, for all inclusion series correspond to one another. And this will give us a common time-series which will be, like the time-series in each self, a phenomenon bene fundatum.
+
+The correspondence of different inclusion series is not only essential in order to give a common time-series, but even for the explanation of the time-series in a single self. For we said in Chap. XLVII, p. 227, that a perceptum which was at a corre spondent stage in the G series — i.e., the inclusion series — to the stage of its perception would be perceived as present, while others would be perceived as future and past. It was mentioned there that the question of correspondent series would be discussed in the present chapter.
+
+615. In what manner can inclusion series correspond ? Each of them has, as its last term in one direction, a term which contains all the content which falls in any of the terms. Each of them is
+
+bounded at the other end by nonentity. The terms which fall in between differ from each other in the amount of content which falls in each of them, or, in other words, in the amount of the D series of increments which falls in each of them.
+
+This gives us a ground for establishing correspondence. The last terms of each series — terms which have the common quality that each of them contains all the content which falls anywhere in its series — will correspond to each other. And, of the rest, any two terms in different series will be correspondent if each of them con tains the same proportion of the content of its series as the other does of the content of its series.
+
+It is, as was maintained in Chapter XL VI, correspondence of this sort which causes any term to be perceived as present — that is, as simultaneous with its perception. And, since this corre spondence exists, not only between perceptions and their percepta, but between terms in every inclusion series in the universe, it gives us a common time-series. When terms which are at correspondent stages of different inclusion series are taken as events in time, they are taken as simultaneous events in time. They are not really events in time, but their simultaneity is a phenomenon bene fundatum. They are as really simultaneous as two things in a single self can be — for example my perceptions of taste and smell when eating an orange.
+
+Since a point can thus be found in any individual time-series which is simultaneous with any given point in any other individual time-series, and since terms which are earlier or later than any term are earlier or later than any term simultaneous to it, we should thus have reached a common time-series, which would include everything which ever entered into any individual time-series as an apparent event in time.
+
+616. It has been seen that the last term, in one direction of the time-series in every self, will be a term which contains all the con tent which falls in any term in that series. And, in the common time-series, all these terms will be simultaneous. At the other end, each series will have terms, each of which is simultaneous with a term in each other series, until the series stops at the boundary, which is nonentity. It follows that, when they are looked at as terms in a common time-series, each self will appear to have the
+
+same duration — a duration which will stretch from the beginning to the end of time. This is, no doubt, only an appearance, since selves are not in time at all. But it is a phenomenon bene fundatum, and it is as true as any other statement as to temporal duration. It is as true that I endure through all time as it is that my repentance came after my crime1.
+
+617. The second question which we had to discuss was whether, on our theory, we can in any way maintain the ordinary distinction between real and apparent length of time. On the theory that time is real, such a distinction must be made, and presents no difficulty. Let A and B stand equally near a clock which goes perfectly accurately, from the time it strikes one till the time it strikes two, and let the duration of their experiences from one striking to the other be called m for A and n for B. Let them do the same next day, but now let A be more bored with what ever occupies his thoughts than he was the first day, while B is more interested in whatever occupies his thoughts than he was the first day. Let us call the durations of their experiences for the second day, o for A and p for B. Then o will appear longer than m, and m will be equal to n, while n will appear longer than py and p will be equal to o. The oscillation of "appear" and "be" in this statement prevents it from being contradictory. If the word had been "be " in each case there would have been a contradiction.
+
+If time is not real, it follows that the word in each case must be "appear." This does not in itself involve a contradiction. But, if in all four cases the appearance is taken as on the same level, it is impossible that time should be & phenomenon bene fundatum. For if o appears longer than m, and m appears equal to n, and n appears longer than p, and p appears equal to o, then it is clear that the appearances of equality or inequality in time can not have a uniform one to one relation to any characteristics of that timeless reality which appears as in time, and in that case time cannot be a phenomenon bene fundatum.
+
+We can, however, escape from this difficulty if we give a different meaning to "appear" the first and third times that it occurs, from that which we give it the second and fourth times
+
+1 The consequences which arise from this conclusion will be considered in Chapter LXII. Cp. also Chapter XLHI.
+
+that it occurs. And, when we look into the matter, we see that the meaning is different.
+
+618. What are the causes which produce the result, which would be expressed, on the theory that time is real, as the appearance of equal periods of time as unequal ? Periods of bore dom and periods of intense expectation seem longer than the normal. Periods in which we are deeply absorbed in what we are doing seem shorter than the normal. And, again, periods into which many exciting events have been crowded seem on retro spect to be longer than periods of quiet tranquillity — at any rate, provided that these latter have not been wearisome.
+
+The reason for this result in the first case seems to be that in periods of boredom or expectation we pay more attention to the passage of time than usual, because we are more than usually anxious for it to pass, and because we have little else — or little else on which we can fix our minds — to which to attend. And, since we pay as much attention to time in a short period as we should usually pay in a longer period, we judge the period to be longer than it is. It is not, therefore, the apparent greater length which leads to tediousness. It is the tediousness which makes the length seem greater than it is. Again, in periods in which we are deeply interested in what we are experiencing, we have little attention to spare for the lapse of time, and so we tend to judge that little time has elapsed.
+
+In the second case — when a period which has been full of exciting events seems longer than an equal period of tranquillity — the reason seems to be that we remember more of the content of the exciting time than of the tranquil time, and so tend to judge that the greater number of events must have been spread over more time than the smaller number of events.
+
+In the second case, the effect is clearly only produced in retro spect. It is only when we look back on a crowded period that it seems longer than a tranquil period. It is not so clear in the first case that the effect is only produced in retrospect, but I think that we must conclude that it is so. It is true that, in a period of boredom or expectation, we say that the time seems to be passing slowly, but the real fact is, I think, that the part of the period which has already passed seems to us now to have
+
+passed slowly. When we take a period approximating to a specious present — for example, the period between two ticks of a clock — I do not think that it seems longer when we are bored or expec tant, though the period between the striking of two hours does seem longer under those circumstances.
+
+619. We can now see that, according to our theory that time is unreal, there will be a different meaning for "appears," when we say that ra appears equal to n, andp to o. from the meaning which it has when we say that o appears longer than m, and n appears longer than p. And the first appearance will be real relatively to the second, and will be & phenomenon bene fundatum, while the second is not a phenomenon bene fundatum, and is not real even relatively to the first.
+
+So far as the first sort of appearance goes, equal stretches in the C series will appear as equal stretches in the B series — that is, as equal periods of time. And stretches which have any given proportion to each other in the C series will appear as periods of time having the same proportion to each other. Two stretches in the G series are equal if they are both the same proportion of the whole series from zero to the term which contains all the content. Thus two stretches in different G series, each of which
+
+stretched from a term which contains - of the content to a term
+
+z
+
+which contains — of the content, would be equal.
+
+This sort of appearance, therefore, is erroneous in respect of its representing two equal stretches of the G series as periods of time, which they are not, but not erroneous in representing them as equal, which they are. But when the period between the two strikings of the clock appears long to A, who is bored, and short to B, who is interested, the appearance is doubly erroneous — as representing stretches in the G series as periods of time, and as representing them as unequal, when they are really equal. Thus, while they are both appearances from the standpoint of absolute reality, the second is appearance from the standpoint of the first, while the first is reality from the standpoint of the second.
+
+And the first sort of appearance will be a phenomenon bene fundatum, since all its assertions about the magnitude of dura-
+
+tions in time will have a uniform one to one relation to the real magnitudes of the stretches which are misperceived as durations in time. But this is not the case with the second sort of appearance, and so it is not a phenomenon bene fundatum.
+
+It is thus possible to retain the common-sense distinction be tween real and apparent time, even if all time is appearance, in the same way that, even if all space is appearance, we can find a meaning for the statement that the sun appears larger at sunset than at noon, but is really the same size.
+
+620. Our third question was whether time is to be taken as infinite in length. What is meant, in ordinary language, by time being infinite in length ? What, for example, does a man mean who believes in a heaven persisting in time, when he says that heaven persists for an infinite length of time?
+
+It is clear that we do not mean by an infinite time a time which has an infinite number of parts. For it is generally held that an hour has an infinite number of parts, and no one would say that an hour was an infinite length of time. Nor does it mean a time which is not divided into a finite number of parts. For every time is so divided. Every time, for example, is divided into two parts, one of which consists of any given moment together with all earlier moments, while the other consists of all later moments.
+
+If we put what is ordinarily meant by the distinction between finite and infinite time into precise language, I think that it comes to this. Take any finite length of time, and make a series of periods of this length, each beginning where the one before stops. If in either direction, any finite number of such periods reaches to a point beyond which there is no more time, then time is, in that direction, finite. If, however, in either direction no finite number of such periods reaches such a point, then time is infinite in that direction1.
+
+The answer to this will of course depend upon whether time has, in that direction, either a last term or a limit. If it has, the number of such periods will be finite. For a finite number of
+
+1 The series of such periods could have next terms even if the time series was a series of indivisible parts which had no next terms. If one period included all the indivisible parts up to and including the indivisible part M, and another in cluded all parts beyond If up to and including P, the two periods would be members of a series of next terms.
+
+stretches of the same magnitude must eventually reach any boundary. But if there is no last term or limit, the number of such periods will be infinite.
+
+There are, of course, no real periods of time. What appear as periods of time are really stretches of the inclusion series. Now every inclusion series is bounded in both directions. In one direc tion it has, as its last term, the whole of the substance in which the inclusion series falls — the term, in other words, which contains all the contents which fall anywhere in that series. In the other direction it is limited by nonentity. From any point in the series, therefore, a finite number of such stretches will reach the end of the series. And, therefore, while the series of such stretches appears as a series of periods of time, time will appear as being finite in each direction1.
+
+621. There remains the fourth question — whether time is to be taken as infinitely divisible. It could be infinitely divisible on either of two hypotheses — that it had no simple parts, or that it had simple parts which formed a series without next terms.
+
+The first of these alternatives is untenable. For we have seen that it is impossible that a whole should be divided into parts of parts to infinity unless those parts are determined by deter mining correspondence. And we saw in Chap. XLVIT, p. 226, that the terms of the C series cannot be determined by determining correspondence. They cannot, therefore, be divided into parts of parts to infinity and therefore the time-series cannot be divided in such a way.
+
+There remains, however, the other possibility. The C series may consist of indivisible terms, none of which is next to the other, and which are therefore infinite in number. Whether this is the case or not is a question which, as far as I can see, we must leave undetermined.
+
+There is no logical contradiction in the series having no next terms. It is true that each of its infinite number of terms must have a sufficient description. But then each of the terms in, for example, G ! H, could be sufficiently described as that term in the inclusion series of G! If which had precisely a certain pro-
+
+1 The practical result which would seem to follow from this conclusion will be affected by certain considerations which will be brought forward in Chapter LXII.
+
+OH. LI] FURTHER CONSIDERATIONS ON TIME 281
+
+portion of the content of G! H. On the other hand, there is no contradiction in the view that the number of indivisible parts is finite.
+
+Nor do we get any further guidance when we consider that the G series appears as the B series. It must, of course, have at least as many parts as we can distinguish in the B series. But that number is always finite. And thus, so far as this goes, the G series and the B series may be only finitely divisible. On the other hand, it is quite possible that the C series may have parts infinitely smaller than those which we perceive as separate. And so the finite number of such separate perceptions of time does not prove that time is not infinitely divisible.
+
+The ordinary view of time would, I conceive, agree with ours in holding that time had simple parts, but would hold that they were infinite in number, and that time was therefore infinitely divisible. But I can, as I have said, see no reason why the number of simple parts should not be finite.

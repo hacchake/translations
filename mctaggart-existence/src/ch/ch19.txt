@@ -1,0 +1,69 @@
+UNIVERSAL DETERMINATION
+
+137. The result reached at the end of the last Chapter has important bearings on the question of extrinsic determination. It will be remembered that extrinsic determination was so called, not because it is the determination of one substance by another, but because it is the determination which holds between two qualities in virtue of the relation in which they stand to the same substance, while intrinsic determination is that which holds between two qualities as such.
+
+At the end of the last Chapter we saw that, if any substance, A, other than the universe, has a quality X, the universe has the quality of containing a part with the nature of A, which has the quality X. We may call this quality of the universe X'. It is clear that the possession of X by A, and the possession of X' by the universe, intrinsically determine one another.
+
+We saw in Chapter xn that all the qualities of any substance are connected with one another by extrinsic determination, so that it is unjustifiable to assert that any of them would remain the same if any others were different from what they are now. And the universe is a substance. It would therefore be unjustifiable to assert that, if A had not the quality X, any of the qualities of the universe would remain the same. For if A had not the quality X, the universe could not have the quality X', and X' extrinsically determines all the other qualities of the universe.
+
+In the same way, it would be unjustifiable to assert that, if any of the qualities of the universe were not the same, A would still possess X. For it could not possess X unless the universe possessed X' , and X' is in reciprocal extrinsic determination with all the other qualities of the universe.
+
+Since we have defined a fact as the possession by anything of a quality, or the connection of anything with anything by a
+
+relation, we may express the results we have just arrived at by saying that every fact about every other substance extrinsically determines every fact about the universe, and that every fact about the universe extrinsically determines every fact about every other substance.
+
+138. And, further, it would be unjustifiable to assert that, if A had not the quality X, any quality of any other substance would remain the same. Take, for example, the quality Y, possessed by the substance B. The possession of this quality by B stands in reciprocal intrinsic determination with the possession by the universe of the quality Y'. And, as we have seen, if A had not the quality X, it would be unjustifiable to assert that any of the qualities of the universe, including Y', would remain the same. And in that case it would clearly be unjustifiable to assert that B would continue to possess the quality Y, since B cannot be Y unless the universe is Y'.
+
+The occurrence, then, of any quality of any substance extrinsically determines every other occurrence of a quality of any substance. And if all the qualities of substances are thus determined, then the substances themselves are determined in the same way. For, as we have seen1, the individuality of a substance is inseparable from the qualities it possesses, and, by determining what qualities occur, and in what combinations, it is also determined what substance possesses them. By determining, in other words, that a substance exists with a certain nature, we determine what substance exists.
+
+Our conclusion is, then, that all that exists, both substances and characteristics, are bound together in one system of extrinsic determination2.
+
+139. We can now return to the consideration of the third objection to the view that extrinsic determination occurs between all the characteristics of a single substance, which was dis-
+
+1 Section 95.
+
+2 Characteristics include relations as well as qualities. But if all the qualities of a substance are determined, including the qualities of standing in certain relations, then the relations of the substances are determined.
+
+Besides characteristics of substances, there exist also characteristics of existent characteristics. But if the characteristics of substances are determined, their characteristics will be determined also, and also the characteristics of those characteristics, and so on.
+
+cussed in the last Book1. The objection was that, if there were not the present Snowdon, we might have reason to believe that there would be a mountain, with most of the important qualities of the actual Snowdon, though without its present height, because the existence of other substances, in which our hypothesis makes no change, might intrinsically determine the existence of such a mountain.
+
+We can now see that the objection is untenable, because, if the present Snowdon did not exist, the present universe would not exist. We should therefore have no right to assume that there would be any substances which would resemble the substances now intrinsically determining Snowdon to such an extent that they would intrinsically determine the existence of a mountain with many, or with any, of the important qualities of Snowdon.
+
+The supposition that anything should be different from what it is, therefore, is one which we have no right to make. To ask wbat would happen, or what would remain in the universe, if I had sneezed yesterday once less often than I did sneeze, is as hopeless and unprofitable as it would be to ask what would happen, or what would remain in the universe, if twice three were seven, or if things which were equal to the same thing were not equal to one another. It is true that in these two cases there is intrinsic determination — that a group numbers twice three implies that it does not number seven — but the question is as futile when the determination is only extrinsic.
+
+This result will appear unduly paradoxical, unless we remember that it does not deny our right to make the supposition that the same substance may have different characteristics at different moments of time. All that is denied, in the case of a substance existing in time, is our right to make the supposition that, at any moment of time, it should have been different from what it actually is at that moment2.
+
+140. It would have been possible to arrive at our conclusion in a different way. Instead of connecting each substance with each other substance by means of the connection of both with the universe, we might have proceeded more directly. Every
+
+1 Section 110. 2 Cp. Section 110.
+
+existent substance is related to every other existent substance And so, if A should not have existed with exactly the nature X YZ, which it actually has, B could not have had the quality which it actually has, of standing in the relation W to something which has the nature XYZ. And this quality is connected by extrinsic determination with all the other qualities of B. Thus the occurrence of any quality in A extrinsically determines the occurrence of every quality in B, and vice versa, and this can be extended to all other substances and their characteristics.
+
+This method has the advantage of being more direct than the one which we have employed above, but it seemed better to use the method which lays stress on the connection of all other substances through the universe, because that connection is of such general importance, especially in connection with the conception of organic unity, to which we shall proceed in the next Chapter.
+
+141. We have no right, then, to make any supposition about what would happen if anything were different from what it is. Will this introduce any difficulty with regard to general laws? It is very usual to state general laws hypothetically. "If a man's head is cut off, he dies." "If an Australian Archdeacon's head is cut off, he dies." "If anything is a rigid body, not operated on by forces, its centre of gravity will move with uniform velocity in a straight line." With regard to the first of these, there might seem to be no difficulty. Men's heads have been cut off. And so this law might be said to be equivalent to "Whenever a man's head is cut off, he dies." But this will not help us for the other two. For I do not know that any Australian Archdeacon has been or will be beheaded. And I have reason to believe that nothing ever has been or will be a rigid body, not operated on by forces. Thus, if they were to be stated in this hypothetical form, the law about the Archdeacons might turn out to be a statement about what would have happened if things had been different from what they are, and the law about rigid bodies certainly would be such a statement. And such statements are illegitimate. And yet it is impossible to deny that such laws as those about the Archdeacon and the rigid body are true.
+
+154 UNIVERSAL DETERMINATION [bk hi
+
+But there is really no difficulty. For the proposition expressed in a general law is not primarily a statement about any individual, actual or possible. It is primarily a statement of the relation between two characteristics. The relation in question is, no doubt, of such a nature that, in the case of those general laws which deal with characteristics that occur in existence, we can infer that, in all cases in which the characteristic X occurs, the characteristic Y will occur also. But this is not the essence of the law. That consists in the connection of characteristics. And this connection can exist, even when nothing existent has these characteristics1.
+
+142. The interdependence of all existent characteristics, which we have now proved, is not, of course, equivalent to the determination of all characteristics by general laws. The determination of a characteristic by a general law means that the occurrence of some other characteristic Y intrinsically determines the occurrence of X. The assertion that all characteristics are determined by general laws would mean that, for any occurrence of any characteristic X, an occurrence can be found of a characteristic Y, which is such that Y intrinsically determines X2. And all that we have proved is that characteristics determine one another extrinsically.
+
+Since we are not considering here a determination which is intrinsic, or which acts by general laws, we are not dealing with causality. We shall consider later what meaning should be given to this term. But the ordinary view of causality certainly includes, among other elements, the presence of general laws. X is not held to be the effect of Y unless it is connected with Y by some general law. And we shall find reason to accept this view as correct. Extrinsic determination, therefore, is not causality.
+
+The result which we have reached, however, seems to be very much the same as the results which Hegel conceived himself to have established in his categories of Causality and Reciprocity. In those categories he reaches the conclusion that
+
+1 It has been seen in Chapter it that this is not incompatible with the viewthat nothing is real except the existent.
+
+2 Cp. Section 217.
+
+en. xix] UNIVERSAL DETERMINATION 155
+
+everything is determined by everything else, and he cannot mean that the determination takes place by general laws. For he does not, it seems clear, introduce the idea of general laws until he comes to the category of Universal Judgment, which is further on in the dialectic1.
+
+143. The objection has been raised to certain theories of reality that they make the universe a "block" universe, in which every part is rigidly connected with every other part. This objection is generally raised against theories which regard all parts of the universe as connected with all other parts by general laws. In that case, every part would certainly be rigidly connected with every other part. But the rigidity to which objection is taken would arise, even if determination by general laws were not complete. For, as we have just seen, no characteristic of any substance is extrinsically contingent to any other, and it is therefore not legitimate to say that A might have possessed the characteristic W, instead of the characteristic X, without affecting the possession by A of the characteristic I7, or by B of the characteristic Z. And the connection here is just as rigid as the connection by general laws.
+
+The objections to a "block" universe are, as far as I know, based entirely on judgments of value. It is asserted that such a rigid universe would be very unpleasant, or would be destructive to morality, and it is therefore said that a universe of such a nature is to be condemned as evil, to which it is sometimes added, on pragmatic grounds, that it is to be rejected as false. The value of contingency is a point on which opinions differ, and which does not concern us here. We have only to note that, if the absence of contingency is an evil, it is an evil which is inevitable and universal.
+
+1 The details of Hegel's treatment of causality, however, are very different from the conclusions at which we have arrived, especially his extraordinary view that cause and effect are identical.

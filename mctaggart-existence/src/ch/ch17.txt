@@ -1,0 +1,39 @@
+EXCLUSIVE COMMON QUALITIES IN GROUPS
+
+131. We have seen that in certain groups there are qualities which are common to all their members. We may call them Common Qualities in the group. (A common quality in a group, which is a quality of each of the members, must be distinguished from a quality of the group. In many cases a quality which is common in the group is not a quality of the group itself. For example, when "to be an elephant"' is a common quality in a group, it is not a quality of that group, since a group of elephants is never an elephant.)
+
+Are there common qualities in every group? (Among common qualities are included, of course, the common derivative qualities which will arise if each member of the group stands in the same relation to anything.) It is clear that there are common qualities in every group, since there are some qualities — such as existence, substantiality, and the possession of qualities — which are possessed by all members of any group, and are therefore common in any group.
+
+But there is a further question. We see that in some groups there are common qualities which are not shared by anything except the members of that group. Such, for example, is "to be an elephant" in the group which contains all elephants as members and which has no member which is not an elephant. We may call them Exclusive Common Qualities. Has every group one or more Exclusive Common Qualities?
+
+132. Here, too, the answer must be in the affirmative. In the first place, if any group, L, has as members A, B, and C, it will be an exclusive common quality in the group that each member is a member of the group whose members are A, B, and C. This is, indeed, scarcely more than a tautology, but it does give an exclusive common quality.
+
+144 EXCLUSIVE COMMON QUALITIES [bk hi
+
+And, again, there is at least one substance which is not a member of L1. Now of any one of those substances, D, it will be true that all the members of the group will be diverse from it. And, being diverse from it, they must, as we have seen, be dissimilar to it. Thus every member of the group has the quality " diverse from and dissimilar to Z)," which is therefore a common quality in L, and which is not possessed by D.
+
+If, however, outside the group L there is also another substance, E, then "diverse from and dissimilar to D" will not be an exclusive common quality in L, since it will be shared by E, which is not a member of L. But an exclusive common quality of this sort can always be found. There are certain substances which are not members of L. Let us take D, E, and F, as representing a complete list of these. Then the compound quality "diverse from and dissimilar to D, E, and F" belongs to each member of L, and so is a common quality in L. And it is also an exclusive common quality in L, since it cannot belong to anything which is not a member of L. For anything which is not a member of L must be either D, E, or F, and cannot, therefore, be diverse from all three of them.
+
+Such an exclusive common quality as this, however, while it would exist could never be known by our present powers of knowledge. In order to know it, we should have to be able to give an exclusive description of every substance which was not a member of L. And, further, in order to know that the quality in question was an exclusive quality in L, we should have to know that we had included everything which was not a member of L — not only would our knowledge have to be exhaustive, but we should have to know that it was exhaustive. This is obviously far more knowledge than we can acquire. Indeed, though not omniscience, it would have to be infinite knowledge, if, as we shall find reason to believe later on, the number of existent substances is infinite. The fact, however, that every group has such an exclusive common quality is not necessarily
+
+1 A group which did not contain all existent content would clearly have a substance outside it, which was not one of its members. And one which did contain all existent content, would still have one substance which was not one of its members — namely itself. For a group is never one of its own members.
+
+ch. xvn] EXCLUSIVE COMMON QUALITIES 145
+
+unimportant, even if in some cases we can never know what that quality is.
+
+133. But some groups, at any rate, have exclusive common qualities which can be known by such powers of knowledge as we possess. We saw above that the Colleges of Magdalene and Trinity in Cambridge are the only members of two classes. And, consequently, in the group of which they are the members, there are two exclusive qualities, namely, "to be a Cambridge College in which, in the year 1919, the Headship is not in the gift of the Fellows," and "to be a Cambridge College founded between 1515 and 1550."
+
+Thus the common qualities in groups are divided into two classes. The first includes those which can be defined (or, being simple, can be known without definition) without the introduction of exclusive descriptions of all the substances which are members of the group, or else of all the substances which are not members of the group. The second includes those which do require the introduction of some such descriptions. We know that in all groups there are exclusive common qualities of the second class. We know that in some groups there are exclusive common qualities of the first class. But we have not proved, and we have no reason to believe, that an exclusive common quality of the first class is found in every group1.
+
+It is evident that, although we can never know an exclusive common quality which is defined by descriptions of the substances excluded from the group, yet we can always find, in the case of any group, some common quality of that type. Thus the group which consists of Napoleon and the Great Pyramid has the quality common to both its members of being diverse from the Albert Memorial. But this is not an exclusive common quality in the group, since it is shared by Mount Everest.
+
+134. Not every group in which there is an exclusive common quality of the first class has any importance for us, or can be usefully contemplated by us. But, on the other hand, it is safe to say that no group has any importance for us, or is worth
+
+1 We shall see reason, however, in Chapter xxvni, to believe that every substance belongs to at least one group in which there is an exclusive common quality of the first class.
+
+mct. 10
+
+contemplating (except as an example of unimportant groups), if it does not possess an exclusive common quality of the first class. In each group the members are joined to each other, and separated from all others. And there can be no importance for me in the fact that this and that substance are joined to one another, except in the possession by them of a common quality (which may, of course, be the quality of having a common relation to something— perhaps to myself). Nor is there any importance for me in the fact that they are separated from all others, except in their possession of a common quality, which no others have. And the quality which makes it important that the group should be marked out cannot be simply the fact that, when it is marked out, its members agree in the quality of being members of that group, or in the quality of not being anything which is not a member — that is, it cannot be a quality of the second class.
+
+As the exclusive common qualities of the first class are the only ones which we ever know to be such, and the only ones which give a group any importance for us, it is, as a rule, of these only that we speak. It is therefore important to remember, when we say that in each group there is an exclusive common quality, that this is so far only proved about qualities of the second class.

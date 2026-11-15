@@ -1,0 +1,79 @@
+RELATIONS
+
+78. We have now a plurality of substances, and it is therefore evident that there will be Relations among substances. What relations there will be is a question to which much of the rest of this work will be devoted, but that there are some relations is beyond doubt. All substances will be similar to one another, for they are all substances. And all substances will be diverse from one another, since they are separate substances. (By diversity I mean what is sometimes called numerical difference, and not dissimilarity, the relation of which to diversity will be considered in Chapter x.) And substances which are similar to each other, or diverse from one another, stand to each other in the relations of similarity and diversity.
+
+Relation, like quality, is indefinable. We can only show what we mean by it by giving examples. When we say that A is greater than B, is equal to B, is the father of B, is to the right of B, loves B, is ignorant of B, we are asserting a relation in which A stands to B. We cannot define a relation as that in which something stands to something, or which holds between something and something, for in order to give these phrases the meaning which would make them true of relations, we should have to define them as the sort of standing or holding which occurs when things are related. And thus our definition of relation would be circular.
+
+79. Relations can have more than two terms, as when A, B, and C are all equal. And, again, it is possible for a relation to have only one term, at any rate in the ordinary sense of the word. For a subject can have a relation to itself. Every substance has the relation of identity with itself. And some substances are equal to themselves, despise themselves, are their own trustees or their own cousins.
+
+Thus we cannot say that every relation has more than one
+
+term. Yet that which stands in a relation, even if the relation has only one term, has a certain aspect of plurality. For a relation always connects something with something. Even when it only connects something with itself, the term so connected with itself is — to use a metaphor which is not, I think, misleading — at both ends of the relation, and this does involve a certain aspect of plurality, though not, of course, a plurality of substances. This may be more obvious if we notice that it is impossible to express any relation without either having two terms, or using one term twice. It may be the case that A loves nobody but himself, but this must be expressed by saying either "A loves A," or "A loves himself." It cannot be expressed by saying simply "A loves," which only means that A loves someone, without specifying whom.
+
+It might tend to simplicity in considering relations to self if we used the word term differently, so that we should say, for example, that in self-love there were two terms, although both terms were the same substance. But it seems more convenient on the whole to take one thing as being always only one term; and to speak of relations to self as relations with only one term.
+
+80. The difference between relations and qualities is sufficiently clear, though, since both terms are indefinable, it is impossible to define the difference between them. We may say that the qualities are qualities of something, while relations are not relations of anything, but between something and something. This, however, though it may help us to realize the difference, will not give us a definition, since "of" and "between," as used here, could only be understood with the help of the conceptions of quality and relation.
+
+If what we have said is correct, it follows that relation is a conception which is indispensable in describing existence. For the existent has relations, and, since the conception of relation is indefinable, it will be impossible to substitute for it any other conceptions which can be taken as its equivalent.
+
+Strenuous efforts have been made by various philosophers to dispense with the conception of relation in their theories of existence. The most usual form which these efforts have assumed
+
+is an attempt to substitute, in all cases, assertions of qualities for assertions of relations. The theories which have been put forward for this purpose have not confined themselves to saying that relation, though ^alid of existence, was not ultimate, but definable in terms of quality, so that statements about relations could be translated into statements about qualities. They have held that the conception of relation is positively invalid — one which is never rightly applicable anywhere. At the same time they do not go so far as to say that all statements which assert relations are absolutely and simply false — that the statement, for example, that London is larger than Cambridge is no more true than the statement that Cambridge is larger than London. But they say that such statements are confused and inaccurate versions of statements about qualities, and that such a confused and inaccurate version of true statements about qualities is nearer the truth than a similarly confused and inaccurate version of false statements about qualities. The statements about qualities are sometimes taken to be about a quality in each of the substances of which the relation was asserted — in this case Cambridge and London. Sometimes they are taken to be about a quality of some whole which includes both substances.
+
+The chief reason which has been given for the rejection of relations is that there is nowhere for them to be. They are not, it is clear, in either of the terms without being in the other. Nor are they in each of them, taken separately. They are, it is said, between the terms, and not in them. Then, it is asked, is there anything in which they can be? And, when this is answered in the negative, it is concluded that they are impossible1.
+
+81. But this is invalid, because it assumes that a relation is impossible, unless some one thing can be found, in which it is or inheres like a quality. It takes, as tbe test of the possibility of relations, the question whether they can behave exactly as qualities behave, and when it is admitted that they cannot, it
+
+1 This is the line of Lotze's argument, and substantially of Leibniz's also. Mr Bradley's objections are different, and lead to a different conclusion. He does not, like Leibniz and Lotze, endeavour to reduce relations to qualities, but rejects qualities and relations alike. (Cp. Section 88.)
+
+mct. 6
+
+82 RELATIONS [bk 11
+
+concludes that relations are impossible, and that, in a true view of reality, judgments of relation would be replaced by judgments of quality.
+
+There is, however, no justification for the assumption that a relation is impossible, if it cannot inhere in something as a quality does. To the question "in what is a relation?" we may fairly answer that it is not in anything, but that it is between two or more terms, or between a term and itself, and that the conception of "between" is as ultimate as the conception of "in," and has as much claim to be regarded as valid. Both are ultimate, neither contains any contradiction, and the justification of our use of both lies in the fact that it is impossible to state anything whatever without asserting or implying the reality both of qualities and of relations. That this is impossible, both as regards qualities and as regards relations, we have already seen. In the case which immediately concerns us, the relations of substances to substances, since substance does exist, it must be identical with itself, and, as has already been pointed out, since more than one substance exists, they must be similar to one another, and diverse from one another.
+
+And it must be noted that the propositions asserting those relations will be absolutely true. It is not merely that we get iiearer to the truth by asserting them than by denying them. There cannot be any substance unless it is absolutely true that it is identical with itself, and there cannot be more than one substance unless it is absolutely true that they are similar and diverse.
+
+82. The conception of relation, then, must be accepted as valid of the existent. But it might be admitted to be valid, and yet denied to be ultimate and indefinable. It might be said that it really was true that substances were in relations, but that the fact expressed in this way could be expressed in terms of qualities only, without bringing in relations. But this alsG is false. No fact which can be stated in terms of relations between substances can ever be stated in terms which omit the conception of relation. (I use the phrase "between substances" to include "between a substance and itself.")
+
+There are three facts which have, I think, led to some doubt
+
+ch. vin] RELATIONS 83
+
+on this point. In the first place, a relation may no doubt be based on a quality in each of its terms. But this does not mean that it can be reduced to those qualities. If A is larger than B, this relation may depend on the fact that A covers a square mile, and B covers an acre. If A irritates B, this relation may depend on the political opinions of A and the sensitiveness of B. But a statement of the size of A and a statement of the size of B are not equivalent to a statement that A is larger than B, though the latter may be a certain and immediate conclusion from them. And a statement of ^4's opinions and of Z?'s sensitiveness are not equivalent to a statement that A irritates B, though this may follow from them by the laws of human nature.
+
+In the second place, it is true, as we shall see in the next chapter, that the existence of any relation between two substances involves the existence of a quality in each of those substances. "A admires B" is a statement of a relation between A and B. But its truth implies the truth of the statements "A is an admirer of jB," and " B is an object of admiration to A," which state qualities of A and B. But we cannot state these qualities in terms which emit the conception of relation, since the first is the quality of being a person who admires B, and the second is the quality of being a person who is admired by A, and therefore neither of them can be stated without introducing the conception of admiration, which is a relation.
+
+In the third place, a relation determines a quality of any whole which contains all the terms of the relation. We may say that it is a quality of this room, or of the universe, to contain a chair A and a chair B, of which A is larger than B. But then this quality cannot be stated except by using the conception "larger than," and therefore it cannot be stated without stating a relation.
+
+83. Relations, then, cannot be replaced by qualities. Can qualities be replaced by relations? So far as I know, this view has never been taken. If it were to be taken, it would be necessary, as Mr Russell points out1, to take the view that "exact likeness" is a simple relation, not analyzable into com-
+
+1 Proceedings of the Aristotelian Society, 1911-12, p. 9.
+
+munity of qualities, and that there should he exact likenesses of various kinds. Then, instead of saying that A and B bad both the quality of whiteness, we should say that A and B were two of the terms which stood to one another in an exact likeness of one particular kind.
+
+There is, however, no reason that we should depart from the prima facie view that there are qualities, since no reason has ever been given for doubting it. And the view that exact likeness is a simple relation, and independent of any community of qualities seems clearly false. We must therefore abide by the conclusion — which, as I said, I do not think has ever been challenged — that qualities cannot be replaced by relations.
+
+84. Relations, like qualities, are either simple, compound, or complex. A Simple Relation is one which is not capable of analysis, and is therefore indefinable. A Compound Relation is one which can be analyzed into an aggregate of simple relations. A Complex Relation is one which does not consist of an aggregate of other relations, but which can be analyzed and defined by means of other characteristics, whether qualities or relations, or both.
+
+All relations also fall into other classes, which have nothing correspondent to them among qualities. In the first place, every relation is such that what stands in it can only stand in it to itself, or cannot stand in it to itself, or can stand in it either to itself or to something else. For example, a substance can only be identical with itself, it cannot be its own father, and it can admire either itself or something else. Every relation then is either Reflexive, Unreflexi^e, or simply Not Reflexive.
+
+In the second place, every relation is such that, if A stands in it to B, B must stand in it to A, or cannot stand in it to A, or may or may not stand in it to A. Thus if A is equal to B, B is equal to A. If A is B's father, B cannot be A's father. If A loves B, B may or may not love A. Thus we have the classes of Symmetrical, Asymmetrical, and simply Not Symmetrical relations.
+
+In the third place, every relation is such that, if A stands in it to B, and B to C, then either A must stand in it to C, or cannot stand in it to C, or may or may not stand in it to C. If
+
+ch. vni] RELATIONS 85
+
+A is the ancestor of B, and B of C, then A is the ancestor of C. But if A is the father of B, and B of C, then A cannot be the father of C. And if A is the first cousin of B, and B of C, then .4 may or may not be the first cousin of C. Thus we have the classes of Transitive, Intransitive, and simply Not Transitive relations.
+
+What do we know, so far, as to the occurrence of examples of each of these classes among the relations of substances? We know that the relations of identity, diversity, and similarity hold of substances. And, in addition to these, every substance has a relation to each quality which inheres to it, and to each relation of which it is a term.
+
+It is clear that all three classes of the first group are represented. For identity is reflexive, diversity is unreflexive, and similarity is simply not reflexive, if we hold, as I think we must, that a thing can be said to be similar to itself.
+
+In the next group, both diversity and similarity are symmetrical. The relation of a subject to its quality is asymmetrical, since a substance cannot inhere in a quality. We have as yet no reason to hold that simply not symmetrical relations occur, but we shall see later that the relation of determination does occur, and is of this class.
+
+In the third group, similarity is simply not transitive. For, if A is only similar to B in respect of the characteristic X, and B to C in respect of the characteristic Y, the similarity of A to B and of B to C neither involves nor excludes the similarity of A to C1. But specific similarity is transitive. If A is similar to B in respect of X, and B is similar to C in respect of X, then A is similar to C in respect of X. We have not yet reached a case of intransitive relation, but one will occur in the next chapter, when we shall get a series of derivative characteristics, in which X will be tbe next term above Y, and Y the next term above Z, while X, of course, cannot be the next term above Z.
+
+1 In point of fact, A and C, whatever they are, will be similar, since they will both be real, existent, and substances. But this does not follow from the similarity of A to B, and of B to C.

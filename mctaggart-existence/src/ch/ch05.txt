@@ -1,0 +1,63 @@
+QUALITY
+
+59. Something, then, exists. And now we can go further. For existence is not a term which has no reference beyond itself, so that it would be sufficient to say that the nature of that which exists is that it is existent. To say that something exists inevitably raises the question what this something is. And that question must be answered by asserting something of it other than its existence.
+
+The force of this argument will be missed unless we remember that "something" must not be taken in its literal sense. "Something" is the most abstract and indeterminate term that we can get, but if taken literally it is not indeterminate enough, for it would mean, in that case, some thing. And, if we say of the existent that it is a thing, in the ordinary sense of the word, we are saying much more of it than simply that it exists. We must take " something " here as perfectly indefinite — the abstract subject of predication. The German etwas is less misleading, though even this, at any rate in Hegel's use of it, is too definite for our present purpose.
+
+And it must also be remembered that it is not merely positive qualities which we should, in this case, refrain from predicating of the existent. Not only the possession of this or that quality, but the non-possession of these qualities, would give the existent a nature besides its existence. And the same is true of relations. Nor could the existent be a substance without possessing a nature — substantiality — beyond its existence. If we stop with existence, and refuse to go any further, the existent is a perfect and absolute blank, and to say that only this exists is equivalent to saying that nothing exists.
+
+We should thus be involved in a contradiction, since, starting with the premise that something existed, we should arrive at
+
+the conclusion that nothing exists. We must therefore abandon the hypothesis which leads to this contradiction— the hypothesis that the existent has no nature beyond its existence.
+
+We can arrive at the same conclusion in another way. If nothing is true of the existent except the fact that it exists, then it will not, for example, be true of it that it is square. But, then, by the Law of Excluded Middle, it will be true of it that it is not square. And so, after all, something will be true of it besides its existence.
+
+60. We must, then, pass beyond our first stage. It remains true that something exists, but, of that something, something besides its existence must be true. Now that which is true of something is a Quality of that something. And therefore whatever is existent must have some quality besides existence, which is itself a quality.
+
+Quality must, I think, be considered indefinable. We have just said that whatever is true of something must be a quality. This, however, cannot be taken as a definition of quality, since we are not sure that all qualities are true of anything. If nothing were red, red would still be a quality. But can we define quality as that which is true or false of anything? There is no quality of which this is not true, and it might be thought that this gave us a definition of quality, since, in Chapter n, we defined truth and falsity in a manner which did not introduce the conception of quality.
+
+But this would be a mistake. What we defined was "true," a term applicable to beliefs and assumptions, but not to qualities. This is quite different from "true of," a term which is applicable to qualities, but not to beliefs or assumptions. There is the same difference between "false" and "false of." If we say to define "true of" and "false of," we can only say, I think, that X is true of A when a belief which asserts that X belongs to A is a true belief, and that X is false of A when a belief which asserts that X belongs to A is a false belief. Now to say that X belongs to A is equivalent to asserting that A!" is a quality of A. And thus our definition of quality would contain a vicious circle.
+
+If we are endeavouring to discover whether something is or
+
+is not a quality, it is no doubt useful to put our question in the form "is it true or false of anything." But to do this is not to replace the term "quality" by its definition. It is only to enquire whether the subject of which we speak possesses a characteristic which qualities, and only qualities, do possess.
+
+Since quality is indefinable, all that we can do is to point to examples of qualities. It is not so easy as it might seem to be sure what things are qualities. Something which at first sight looks like a quality may turn out to be really a relation, while something which might be supposed to be a relation may really be a quality dependent on a relation. But in some cases there is no doubt. Goodness, happiness, redness, sweetness are qualities.
+
+61. Something does exist, then, and it has some other quality or qualities besides existence. But it is also certain that there are qualities which it does not possess.
+
+This is certain because there are qualities which are incompatible with each other. Squareness and triangularity are incompatible, and so are red and blue1. This is sufficient to prove that whatever exists does not possess certain qualities. If it is square, it is not triangular; if it is triangular, it is not square. If it is neither, then there are at least two qualities which it does not possess.
+
+This non-possession of a quality has also a positive side. We gain knowledge about anything as truly when we deny the quality X of it as when we affirm the quality Y of it. It is true that to know that A is not a triangle tells us much less about it than we learn about B when we know that it is a triangle, because the differences of nature compatible with not being a triangle are so much greater than those compatible with being a triangle. Still, to know that A is not a triangle does tell us something about A. And, within a field already positively
+
+1 It might be said that the evidence for this is only empirical. But I think it is not. That what is red cannot be blue is a universal proposition which is not proved by induction, but is evident to anyone who knows what red and blue mean. And therefore it is not empirical. It is true that we should never have had the concepts of red and blue without sense-perception. But without sense-perception we should never have had the idea of a straight line, and this does not make geometry empirical.
+
+limited, the negation of one quality may imply the affirmation of another. If anything is a human being, and is not male, it must be female.
+
+The positive side of the non-possession of a quality can be conveniently expressed by converting the denial of a quality into the affirmation of its contradictory. Instead of denying that a triangle, or a spirit, has the quality of squareness, we can affirm that it has the quality of not-squareness. The difference between "this is-not square" and "this is not-square" may seem trivial. But for our purpose it has significance, since the second, unlike the first, emphasises the positive aspect of all denial.
+
+62. Whatever exists, then, has a plurality of qualities. Indeed, everything that exists will have as many qualities as there are positive qualities. For it has, in each case, either the positive quality or its corresponding negative quality. We are, further, certain that among them will be more than one negative quality. For, of the three negative qualities, not-square, nottriangular, and not-circular, it is clear that everything must have at least two. It is also clear that whatever exists will have more than one positive quality. For existence is itself a positive quality, and since whatever exists possesses a plurality of qualities, positive or negative, it will be true of it that it is many-qualitied. And this is itself a second positive quality1.
+
+63. Qualities may be divided into those which admit of analysis, and can therefore be defined by a statement of that analysis, and those which are not capable of analysis, and are therefore indefinable. The latter may be called Simple Qualities. The former fall into two classes, according to the nature of the analysis, which I propose to call respectively Compound and Complex Qualities.
+
+By Compound Qualities I mean such as can be analyzed into an aggregate of other qualities. Any two qualities taken together form a compound quality. Red and sweet is a compound quality, though it has no special name. And so is square and triangular, though we know that nothing can possibly have
+
+1 "Many-qualitied" is a quality and not a relation, though it implies, no doubt, a relation to each of the many qualities.
+
+this particular compound quality. The most obvious examples of compound qualities are to be found in the species of natural history. If, for example, we should adopt the old definition of man as a rational animal, then humanity is a compound quality, consisting of animality and rationality. The qualities of which a compound quality is composed may be called its parts.
+
+A Complex Quality is one which does not consist of an aggregate of other qualities, but which can be analyzed and defined by means of other characteristics, whether qualities or relations, or both. Thus, if we defined conceit as the possession of a higher opinion of oneself than is justified by the facts, conceit would be a complex quality, since it is capable of analysis, but not of analysis into an aggregate of qualities. Every negative quality is complex, for it can be analyzed into two terms, of which one is negation and the other is the corresponding positive quality, and it is not an aggregate of those terms. Since a complex quality is not an aggregate of the characteristics which enter into its analysis, it is better to call them elements, and not parts, of the complex quality.
+
+64. The immediate parts or elements of a compound or complex quality need not be simple qualities, but may themselves be compound or complex. The relation of "analyzable into" is such that, if X can be analyzed into Y and Z, and Z can be analyzed into V and W, then X can be analvzed into V, W and Z1. Thus, whenever in any definition we find a compound or complex term, we can replace that term with its own definition, and this process can go on until the definition of the original term is expressed entirely in terms which are simple characteristics.
+
+But are we certain that this end will be reached in the case of every compound or complex quality? Is it possible that there may be qualities such that every term in their analysis may again be analyzed, and that the terms thus reached may again be analyzed, and so on endlessly, so that no simple terms are ever reached — or at least, no analysis into terms all of which are simple.
+
+1 That is, the relation is transitive. Cp. Section 84.
+
+This, however, is not possible. If we ask what any particular quality is — what we mean when we predicate it of anything — the answer, in the case of any quality which is not simple, is that this depends on what the terms are into which it can be analyzed. And, therefore, if in any case the analysis could go on endlessly, what the quality is, and what we mean when we predicate it, would depend on the final term of a series which had no final term. Thus it would be nothing in particular, and we should mean nothing by predicating it. This is impossible in a quality. The series of analyses, then, cannot be endless, but must end in an analysis consisting entirely of simple characteristics.
+
+This does not mean that the analysis of a quality may not be infinitely differentiated. If, for example, there are an infinite number of simple qualities, then there would be a compound quality consisting of all these, and such a quality would be infinitely differentiated1. And a complex quality might also have an infinitely differentiated analysis. Such qualities could not be known by a human mind, but they might nevertheless be real. What is impossible Is that there should be an analysis which never ends in simple characteristics.
+
+Since any two or more qualities form a compound quality, all the qualities possessed by any particular thing form a compound quality. And this compound quality may be called the Nature of that thing.
+
+1 A compound quality which consisted of all simple qualities could never be existent as a quality, since nothing can have all simple qualities (e.g. both red and blue). But it would be existent as an element in the corresponding negative quality, which would be a quality of all existent things.
