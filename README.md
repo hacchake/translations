@@ -26,7 +26,7 @@
 | `heptameron/` | 伝ピエトロ・ダバノ『Heptameron: or, Magical Elements』（ロバート・ターナー英訳1655年。魔法円・七曜の印章つき） | 全訳完了（作業メモ・note用原稿あり。既訳〈大橋喜之訳、2025年〉があるためnote非公開） |
 | `fourth-book/` | 伝アグリッパ『オカルト哲学第四の書』、伝アグリッパ「ジオマンシーについて」、ピクトリウス「イサゴーゲー（霊の本性について）」、伝クレモナのゲラルドゥス「天文的ジオマンシー」（ロバート・ターナー英訳1655年。序文・献詩、文字表・図版つき） | 全訳完了・2026-11-14にnote公開済み（4本。URLは作業メモに記録。第四の書本体には既訳〈大橋喜之訳、2025年〉あり） |
 | `levi-splendeurs/` | エリファス・レヴィ『光輝の書』（Le Livre des Splendeurs, 1894年。ゾーハル『イドラ・ズータ』の訳と注解、フリーメイソンの伝説、カバラー十講、パピュの付録） | 全訳完了（原本105〜120ページはスキャン欠落のため未訳。2026-11-15にnote公開済み（5本。URLは作業メモに記録）） |
-| `mctaggart-existence/` | J・M・E・マクタガート『存在の本性』（The Nature of Existence, 全2巻、1921・1927年。実体・決定的対応・時間の非実在性・観念論・誤りの理論・不死と最終段階の価値） | 全訳完了（全68章。編者ブロードの序文と注、詳細目次、索引は除く）。部ごとのnote用原稿7本あり |
+| `mctaggart-existence/` | J・M・E・マクタガート『存在の本性』（The Nature of Existence, 全2巻、1921・1927年。実体・決定的対応・時間の非実在性・観念論・誤りの理論・不死と最終段階の価値） | 全訳完了（全68章。編者ブロードの序文と注、詳細目次、索引は除く）。2026-11-15にnote公開済み（7本。URLは作業メモに記録） |
 | `occult-medicine/` | Franz Hartmann『Occult Science in Medicine』（1893年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05にnote公開済み） |
 | `pronaos/` | Franz Hartmann『In the Pronaos of the Temple of Wisdom』（1890年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
 | `training-initiate/` | Dion Fortune『The Training and Work of an Initiate』（1930年） | 全訳完了（作業メモ・note用原稿あり。2026-11-05 にnote公開済み） |
