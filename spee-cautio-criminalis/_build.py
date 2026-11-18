@@ -62,10 +62,10 @@ TAIL = """---
 """
 (D / "note用").mkdir(exist_ok=True)
 for k, (sub, ns) in enumerate(PARTS, 1):
-    inf = info if k == 1 else info_noimg
-    top = f"<!-- note投稿用（全訳から生成） -->\n\n# 【全訳】フリードリヒ・シュペー『{T}』（1631年）{sub}\n\n{inf}\n"
+    top = f"<!-- note投稿用（全訳から生成） -->\n\n# 【全訳】フリードリヒ・シュペー『{T}』（1631年）{sub}\n\n{info_noimg}\n"
     if k == 1:
-        top += "\n" + about_toc.strip() + "\n"
+        img = [l for l in info.split("\n") if l.startswith("![")][0]
+        top += "\n" + img + "\n\n" + about_toc.strip() + "\n"
     else:
         top += f"\n全三回のうち第{'一二三'[k-1]}回です。この本の解説は第一回に載せています。\n"
     b = untable("\n\n".join(r(n) for n in ns))
