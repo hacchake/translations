@@ -45,6 +45,22 @@ TAIL = """---
 
 #ダイアンフォーチュン #心霊的自己防衛 #秘教 #西洋魔術 #オカルト #翻訳 #パブリックドメイン
 """
+
+
+def untable(t):
+    """note は表を扱えないので、表の行を箇条書きに直す。"""
+    out = []
+    for l in t.split("\n"):
+        if l.startswith("|"):
+            c = [x.strip() for x in l.strip("|").split("|")]
+            if c[0] in ("原語",) or set(c[0]) <= set("-: "):
+                continue
+            out.append(f"- {c[0]}　→　{c[1]}" + (f"：{c[2]}" if len(c) > 2 and c[2] else ""))
+        else:
+            out.append(l)
+    return "\n".join(out)
+
+
 (D / "note用").mkdir(exist_ok=True)
 for k, (sub, rng) in enumerate(PARTS, 1):
     top = f"<!-- note投稿用（全訳から生成） -->\n\n# 【全訳】ダイアン・フォーチュン『{T}』（1930年）{sub}\n\n{info}\n"
@@ -52,7 +68,7 @@ for k, (sub, rng) in enumerate(PARTS, 1):
         top += "\n" + about_toc.strip() + "\n"
     else:
         top += f"\n全三回のうち第{'一二三'[k-1]}回です。この本の解説と全体の目次は第一回に載せています。\n"
-    b = "\n\n".join(r(f"n{i}") for i in rng)
+    b = untable("\n\n".join(r(f"n{i}") for i in rng))
     txt = f"{top}\n---\n\n{b}\n\n{TAIL}"
     (D / f"note用/{T}_note_{k}.md").write_text(txt, encoding="utf-8")
     print(k, len(txt))
