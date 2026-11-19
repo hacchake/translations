@@ -96,7 +96,7 @@
 | `psychic-self-defense/` | Dion Fortune『Psychic Self-Defence』（1930年。商業出版の既訳あり：大島有子訳『心霊的自己防衛』国書刊行会） | 全訳完了（用語集・人名解説の付録あり）・2026-11-18にnote公開済み（3本。URLは作業メモに記録） |
 | `spee-cautio-criminalis/` | Friedrich Spee『Cautio Criminalis』（1631年初版、ラテン語原典から。初版扉つき） | 全訳完了（用語集・人名解説の付録あり）・2026-11-19にnote公開済み（3本。URLは作業メモに記録） |
 | `scot-discoverie/` | Reginald Scot『The Discoverie of Witchcraft』（1584年初版。ニコルソン編1886年復刻のOCRテキストから） | 全訳完了（用語集・人名解説の付録あり）・2026-11-19にnote公開済み（5本。URLは作業メモに記録） |
-| `weyer-praestigiis/` | Johann Weyer『De praestigiis daemonum』（1563年初版、ラテン語原典から） | 全訳完了（用語集・人名解説の付録あり。note用原稿4本） |
+| `weyer-praestigiis/` | Johann Weyer『De praestigiis daemonum』（1563年初版、ラテン語原典から） | 全訳完了（用語集・人名解説の付録あり）・note公開済み（4本。URLは作業メモに記録） |
 
 ## 各フォルダの構成（原則）
 
